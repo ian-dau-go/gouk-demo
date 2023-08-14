@@ -3,8 +3,8 @@
         <div class="row mx-auto w-100 __px-100px py-5">
             <div class="col-lg-6 frame34787__images--our-hardworking-staff">
                 <div class="MaskGroup row mx-auto">
-                    <div class=" w-50">
-                        <div class="frame34799  frame34787__images--gird" style>
+                    <div class="pl-0 w-50">
+                        <div class="frame34799 frame34787__images--gird" style>
                             <img class="Img49092 w-100" style="height: 260px; border-radius: 10px" src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4909 2.png" />
                             <img class="1709511 w-100" style="height: 162px; border-radius: 10px" src="<?php bloginfo('template_url'); ?>/assets/images/20230301_170951 1.png" />
                             <img class="Img49941 w-100" style="height: 438px; border-radius: 10px" src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4994 1.png" />
@@ -16,7 +16,7 @@
                             <img class="1625451 w-100" style="height: 305px; border-radius: 10px" src="<?php bloginfo('template_url'); ?>/assets/images/20230301_162545 1.png" />
                             <img class="Img50331 w-100" style="height: 233px; border-radius: 10px" src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5033 1.png" />
                         </div>
-                        <div class="frame34799  frame34787__images--gird" style>
+                        <div class="frame34799 frame34787__images--gird" style>
                             <img class="Img49092 w-100" style="height: 260px; border-radius: 10px" src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4909 2.png" />
                             <img class="1709511 w-100" style="height: 162px; border-radius: 10px" src="<?php bloginfo('template_url'); ?>/assets/images/20230301_170951 1.png" />
                             <img class="Img49941 w-100" style="height: 438px; border-radius: 10px" src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4994 1.png" />
@@ -29,7 +29,7 @@
                             <img class="Img50331 w-100" style="height: 233px; border-radius: 10px" src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5033 1.png" />
                         </div>
                     </div>
-                    <div class="w-50">
+                    <div class="pr-0 w-50">
                         <div class="frame34798 frame34787__images--gird" style>
                             <img class="Img50831 w-100" style="height: 250px; top: 0px; border-radius: 10px" src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5083 1.png" />
                             <img class="1622501 w-100" style="height: 245px; top: 266px; border-radius: 10px" src="<?php bloginfo('template_url'); ?>/assets/images/20230301_162250 1.png" />
