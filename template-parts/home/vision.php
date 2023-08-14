@@ -11,7 +11,6 @@
                         company that is always at the
                         forefront
                         of technology.</span>
-                </div>
             </div>
             <div class="col-12 frame34666">
                 <div class="frame34661 row mx-auto col-12 w-100 py-2">
