@@ -30,7 +30,7 @@
                             <div class="Frame9545 pl-0 col-3 col-md-3 col-lg-3">
                                 <a href="https://goldenowl.uk/">
                                     <div class="logo">
-                                        <img src="<?php echo get_template_directory_uri().'/assets/images/logo.svg' ?>" alt />
+                                        <img src="<?php echo get_template_directory_uri().'/assets/images/gouklogo.svg' ?>" alt />
                                     </div>
                                 </a>
                             </div>
