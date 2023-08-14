@@ -25,8 +25,7 @@
             </div>
             <div class="col-lg-7 py-3 timeline" style="border-left: 12px solid #F5C118;">
                 <div class="position-relative">
-                    <!-- <img id="timelineCircle" class="timeline-hover" src="<?php bloginfo('template_url'); ?>/assets/images/timeline-scroll.svg" alt=""> -->
-                    <main class="frame34786">
+                    <main class="frame34786" style="cursor: url('<?php bloginfo('template_url'); ?>/assets/images//Frame34977.svg'), auto;"">
                         <div class="frame34740">
                             <div class="text-center"><span style="color: black; font-size: 32px; font-family: Montserrat; font-weight: 700; line-height: 48px; word-wrap: break-word">2014-2018<br /></span><span style="color: black; font-size: 26px; font-family: Montserrat; font-weight: 400; line-height: 39px; word-wrap: break-word">Launch</span>
                             </div>
