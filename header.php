@@ -7,8 +7,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>
-        <?php if (isset($args['title'])) echo $args['title'];
-        else echo 'Unknow page' ?>
+        <?php if (isset($args['title'])) { echo $args['title'];
+        } else { echo 'Unknow page'; 
+        } ?>
     </title>
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/index.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/cdnjs.cloudflare.com_ajax_libs_OwlCarousel2_2.3.4_assets_owl.carousel.css" type="text/css" media="screen" />
@@ -20,9 +21,9 @@
 </head>
 
 <body>
-    <div style="height: 100vh">
+    <div style="height: 100vh" <?php echo isset($args['active']) && $args['active'] === 'blog' ? 'class="gouk__blog-page gouk-article"':'' ?> >
         <div class style="background: white">
-            <section>
+            <section style="background: <?php echo isset($args['active']) && $args['active'] === 'blog' ? '#FFFBEB' :'white' ?>">
                 <div class="row mx-auto">
                     <div class="__px-100px container-fluid gouk--header">
                         <div class="Frame9198 row mx-auto justify-content--space-between">
@@ -51,7 +52,8 @@
                                         </li>
                                         <li>
                                             <div class="frame9461">
-                                                <a class="Service <?php if (isset($args['active']) && $args['active'] === 'services') echo 'active' ?>" href="/service.html">Service</a>
+                                                <a class="Service <?php if (isset($args['active']) && $args['active'] === 'services') { echo 'active'; 
+                                                                  } ?>" href="/service.html">Service</a>
                                                 <div class="Frame9456">
                                                     <img width="12px" height="14px" src="<?php bloginfo('template_url'); ?>/assets/images/frame9456.svg" alt srcset />
                                                 </div>
@@ -59,7 +61,8 @@
                                         </li>
                                         <li>
                                             <div class="frame9461">
-                                                <a class="Blog <?php if (isset($args['active']) && $args['active'] === 'blog') echo 'active' ?>" href="/blog.html">Blog</a>
+                                                <a class="Blog <?php if (isset($args['active']) && $args['active'] === 'blog') { echo 'active'; 
+                                                               } ?>" href="/blog.html">Blog</a>
                                             </div>
                                         </li>
                                         <li>

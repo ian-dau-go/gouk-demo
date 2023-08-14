@@ -15,7 +15,8 @@
             <div class="col-12 frame34666">
                 <div class="frame34661 row mx-auto col-12 w-100 py-2">
                     <div class="frame34701 col-12 col-sm-6 col-md-6 col-lg-6 py-3 my-auto">
-                        <img class="MacbookPro16 w-100 h-100" style="object-fit: cover;" src="<?php bloginfo('template_url'); ?>/assets/images/frame34701.svg" />
+                        <img class="MacbookPro16 w-100 h-100" style="object-fit: cover;"
+                            src="<?php bloginfo('template_url'); ?>/assets/images/frame34701.svg" />
                     </div>
                     <div class="frame9501 col-12 col-sm-6 col-md-6 col-lg-6 py-3 my-auto">
                         <div class="frame34702">
@@ -79,13 +80,15 @@
                 </div>
                 <div class="frame34662 col-sm-6 col-md-6 col-lg-6 py-3 my-auto" style="position: relative">
                     <div class="Iphone143 w-100">
-                        <img style="object-fit: cover;" class="w-100 h-100" src="<?php bloginfo('template_url'); ?>/assets/images/frame34662.svg" />
+                        <img style="object-fit: cover;" class="w-100 h-100"
+                            src="<?php bloginfo('template_url'); ?>/assets/images/frame34662.svg" />
                     </div>
                 </div>
             </div>
             <div class="frame34664 row mx-auto w-100 py-2">
                 <div class="frame34660 col-sm-6 col-md-6 col-lg-6 py-3 my-auto" style="position: relative">
-                    <img class="Mockup21 w-100 h-100" style="object-fit: cover;" src="<?php bloginfo('template_url'); ?>/assets/images/frame34660.svg" />
+                    <img class="Mockup21 w-100 h-100" style="object-fit: cover;"
+                        src="<?php bloginfo('template_url'); ?>/assets/images/frame34660.svg" />
                 </div>
                 <div class="frame9501 col-sm-6 col-md-6 col-lg-6 py-3 my-auto">
                     <div class="frame34702">
@@ -98,9 +101,12 @@
                         <div class="Rectangle43880" style="width: 132px; height: 4px; background: #ECECEC">
                         </div>
                     </div>
-                    <div class="frame34678" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
-                        <div class="TrustedByManyBusinesses"><span style="color: black; font-size: 26px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Trusted
-                                by </span><span style="color: black; font-size: 26px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">many
+                    <div class="frame34678"
+                        style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+                        <div class="TrustedByManyBusinesses"><span
+                                style="color: black; font-size: 26px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Trusted
+                                by </span><span
+                                style="color: black; font-size: 26px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">many
                                 businesses</span>
                         </div>
                         <div class="OurTeamComprisesSeasoned">
@@ -148,7 +154,8 @@
                     </div>
                 </div>
                 <div class="frame34659 col-sm-6 col-md-6 col-lg-6 py-3 my-auto" style="position: relative">
-                    <img class="Blue w-100 h-100" src="<?php bloginfo('template_url'); ?>/assets/images/frame34659.svg" />
+                    <img class="Blue w-100 h-100"
+                        src="<?php bloginfo('template_url'); ?>/assets/images/frame34659.svg" />
                 </div>
             </div>
         </div>
