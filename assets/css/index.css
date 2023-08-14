@@ -10,9 +10,8 @@
      font-size: 40px !important;
  }
 
- .logo {
-    width: min(50vw, 254px);
-    height: 43px;
+ .logo img {
+     width: min(50vw, 254px);
  }
 
  .pl-0 {
@@ -1802,8 +1801,8 @@
  .image-stack__item--top .--img,
  .image-stack__item--bottom .--img {
      /* // slightly arbitrary, keeps proportion once resized */
-     box-shadow: 6px 9px 12px 0px #000000;
-     box-shadow: -2px 0px 8px 0px #000000;
+     box-shadow: 5px 2px 8px 0px rgba(37, 37, 37, 0.12);
+     box-shadow: -1px 0px 12px 0px rgba(66, 66, 66, 0.16);
      border-radius: 12px;
  }
 
