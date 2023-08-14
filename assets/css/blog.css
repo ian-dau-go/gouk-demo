@@ -1,0 +1,40 @@
+
+.Rectangle4381 {
+    height: 332px;
+    border: 1px solid;
+    background: rgba(255, 251, 235, 1);
+    padding: 10px 100px;
+}
+
+.Frame34953 {
+    width: 547px;
+    height: 107px;
+    top: 169px;
+    left: 101px;
+    gap: 20px;
+    border: 1px solid;
+}
+
+.Frame34953 .Frame34953--title {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.Frame34953 .Frame34953--description {
+    font-family: Mallory;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(29, 31, 33, 1);
+}
+
+.Frame34950 {
+    height: 365px;
+    justify: space-between;
+}
