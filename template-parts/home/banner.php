@@ -1,6 +1,6 @@
 <section>
     <div class="row mx-auto">
-        <div class="__px-100px py-3 container-fluid col-12">
+        <div class="__px-100px pt-3 pb-5 container-fluid col-12">
             <div class="col-sm-12 col-md-12 col-lg-9 frame34719">
                 <div class="col-12 Unleash fz-m">
                     <span>Unleash the Power with</span>
