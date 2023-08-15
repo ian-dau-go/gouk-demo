@@ -37,7 +37,7 @@
                             style="width: 242px; color: white; font-size: 18px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">
                             11
                             Beaver Lane,
-                            London,England, W6 9AR.</div>
+                            London, England, W6 9AR.</div>
                     </div>
                 </div>
                 <div class="frame9323"
@@ -96,7 +96,7 @@
                         <div class="Cmt8Ward11District3Hcmc"
                             style="width: 242px; color: white; font-size: 18px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">
                             538
-                            CMT8, Ward 11,District
+                            CMT8, Ward 11, District
                             3, HCMC</div>
                     </div>
                 </div>
