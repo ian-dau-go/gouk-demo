@@ -1,13 +1,12 @@
-<div href="<?php echo get_permalink($post->ID) ?>"
-    class="Frame94955__item py-md-3 py-lg-3 grid-item col-12 col-md-6 post_link">
+<div class="Frame94955__item py-md-3 py-lg-3 grid-item col-12 col-md-6 post_link">
     <div class="card">
-        <div class="Frame94955__item--image col-12">
+        <a href="<?php echo get_permalink($post->ID) ?>" class="Frame94955__item--image col-12">
             <img height="299px" width="100%" src="
             <?php
             echo has_post_thumbnail($post->ID) ?
                 get_the_post_thumbnail_url($post->ID) :
                 get_template_directory_uri() . '/assets/images/blog-default.jpeg' ?>" alt="">
-        </div>
+        </a>
         <div class="Frame94955__item--content col-12">
             <div class="d-flex datetime ">
                 <span

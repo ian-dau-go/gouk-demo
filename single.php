@@ -1,5 +1,5 @@
 <?php
-get_header("", ['active' => 'blog', 'title' => get_post(get_the_ID())->post_title]);
+get_header("", ['slug' => 'article', 'active' => 'blog', 'title' => get_post(get_the_ID())->post_title]);
 
 while ( have_posts() ) :
     the_post();
