@@ -27,28 +27,9 @@ $post = get_post(get_the_ID());
                             Table of contents
                         </div>
                         <div class="sidebar-body">
-                            <ul class="list-group" id="list-example">
-                                <li>
-                                    <a class="active" href="#list-item-1">
-                                        <span>An overview of the Southeast Asia market</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#list-item-2">What businesses may gain and lose when entering
-                                        the
-                                        Southeast Asian market</a>
-                                </li>
-                                <li>
-                                    <a href="#list-item-3">The role of outsourcing in addressing these
-                                        challenges</a>
-                                </li>
-                                <li>
-                                    <a href="#list-item-4">How does Golden Owl itself help bridge these
-                                        opportunities?</a>
-                                </li>
-                                <li>
-                                    <a href="#list-item-5">Conclusion</a>
-                                </li>
+                            <ul class="list-group" id="table-of-contents">
+
+
                             </ul>
                         </div>
                         <div class="sidebar-logo-group d-flex">
@@ -74,7 +55,7 @@ $post = get_post(get_the_ID());
                         <span>
                             <img width="22px" height="18px"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/clock.svg" alt="">
-                            10 minutes read
+                            <?php echo do_shortcode('[rt_reading_time post_id="'.$post->ID.'"]')?>minutes read
                         </span>
                     </div>
                     <div class="content py-3" data-bs-spy="scroll" data-bs-target="#list-example" data-bs-offset="0"
@@ -86,7 +67,7 @@ $post = get_post(get_the_ID());
                         <p class="description py-4">
                             <?php echo $post->post_excerpt?>
                         </p>
-                        <div class="content py-3">
+                        <div class="content py-3" id='post-content'>
                             <?php echo $post->post_content?>
                         </div>
                     </div>
@@ -94,6 +75,25 @@ $post = get_post(get_the_ID());
             </div>
         </div>
 </section>
+<script src="<?php bloginfo('template_url'); ?>/assets/js/ajax.googleapis.com_ajax_libs_jquery_3.6.4_jquery.min.js">
+</script>
+<script>
+$(document).ready(function() {
+    const h4Tags = $("#post-content h4");
+    h4Tags.each(function() {
+        const h4Tag = $(this);
+        const h4Text = h4Tag.text();
+        const slug = h4Text.replaceAll(' ', '-').toLowerCase();
+        h4Tag.attr('id', slug);
+        $('#table-of-contents').append(` <li>
+                                    <a href="#${slug}">
+                                        <span>${h4Text}</span>
+                                    </a>
+                                </li>`)
+
+    })
+})
+</script>
 
 <?php 
 

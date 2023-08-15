@@ -11,7 +11,8 @@
                 <span class="dot">
                     <img width="3px" src="<?php bloginfo('template_url'); ?>/assets/images/Ellipse 142.svg" alt="">
                 </span>
-                <span class="d-inline-block time">19 min read</span>
+                <span class="d-inline-block time"><?php echo do_shortcode('[rt_reading_time post_id="'.$post->ID.'"]')?>
+                    min read</span>
             </div>
             <h3 class="mt-2 title text-ellipsis">
                 <?php echo $post->post_title ?>
