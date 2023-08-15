@@ -19,7 +19,8 @@
                     <div class="frame9632">
                         <a class="ExploreOurServices text-decoration-none" href="/service.html">
                             Explore our services
-                            <img style="width: 12.51px; height: 8px;" src="<?php bloginfo('template_url'); ?>/assets/images/Left 2 (1).png" alt>
+                            <img style="width: 12.51px; height: 8px;"
+                                src="<?php bloginfo('template_url'); ?>/assets/images/Left 2 (1).png" alt>
                         </a>
                     </div>
                 </div>
@@ -29,7 +30,8 @@
                     <div class="col-12 col-sm-6 col-md-6 col-xl-3 col-lg-3">
                         <a class="frame9712" href="https://goldenowl.asia/services/ai">
                             <div class="icon">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/artificial-intelligence 1 (1).svg" alt srcset>
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/artificial-intelligence 1 (1).svg"
+                                    alt srcset>
                             </div>
                             <div class="frame9470">
                                 <div class="service__title">
@@ -86,7 +88,8 @@
                             <div class="icon">
                                 <img src="<?php bloginfo('template_url'); ?>/assets/images/group-chat 1.svg" alt srcset>
                             </div>
-                            <div class="frame9470" style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
+                            <div class="frame9470"
+                                style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
                                 <div class="service__title">
                                     Development Team</div>
                                 <div class="service__content">
@@ -98,9 +101,11 @@
                     <div class="col-12 col-sm-6 col-md-6 col-xl-3 col-lg-3">
                         <a class="frame9718" href="https://goldenowl.asia/services/development-team">
                             <div class="icon">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/mobile-phone 1.svg" alt srcset>
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/mobile-phone 1.svg" alt
+                                    srcset>
                             </div>
-                            <div class="frame9470" style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
+                            <div class="frame9470"
+                                style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
                                 <div class="service__title">
                                     Mobile Development</div>
                                 <div class="service__content">
@@ -111,9 +116,11 @@
                     <div class="col-12 col-sm-6 col-md-6 col-xl-3 col-lg-3">
                         <a class="frame9716" href="https://goldenowl.asia/services/project-management">
                             <div class="icon">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/project-management 1.svg" alt srcset>
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/project-management 1.svg" alt
+                                    srcset>
                             </div>
-                            <div class="frame9470" style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
+                            <div class="frame9470"
+                                style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
                                 <div class="service__title">
                                     Project Management</div>
                                 <div class="service__content">
@@ -126,7 +133,8 @@
                             <div class="icon">
                                 <img src="<?php bloginfo('template_url'); ?>/assets/images/automation 1.svg" alt srcset>
                             </div>
-                            <div class="frame9470" style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
+                            <div class="frame9470"
+                                style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
                                 <div class="service__title">
                                     Automation Testing</div>
                                 <div class="service__content">

@@ -59,6 +59,11 @@
      display: flex;
  }
 
+ .post_link {
+     text-decoration: none;
+     word-wrap: break-word;
+ }
+
  .AboutUs,
  .Service,
  .Blog,

@@ -26,7 +26,8 @@
                             <div class="MaskGroupImage">
                                 <div class="Rectangle4380 RectangleImage">
                                 </div>
-                                <img class="RectangleImage" src="<?php bloginfo('template_url'); ?>/assets/images/JN_1.svg" />
+                                <img class="RectangleImage"
+                                    src="<?php bloginfo('template_url'); ?>/assets/images/JN_1.svg" />
                             </div>
                         </div>
                         <div class="frame34686">
@@ -64,14 +65,16 @@
                             <div class="MaskGroupImage">
                                 <div class="Rectangle4380 RectangleImage">
                                 </div>
-                                <img class="RectangleImage" src="<?php bloginfo('template_url'); ?>/assets/images/BOD_4.svg" />
+                                <img class="RectangleImage"
+                                    src="<?php bloginfo('template_url'); ?>/assets/images/BOD_4.svg" />
                             </div>
                         </div>
                         <div class="frame34687">
                             <div class="frame34685 py-3">
                                 <div class="Scalability">
                                     Riaz Ladha</div>
-                                <div class="Bod" style="color: #242424; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">
+                                <div class="Bod"
+                                    style="color: #242424; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">
                                     BOD</div>
                             </div>
                             <div class="ASerialEntrepreneur frame34700__text">
@@ -100,14 +103,16 @@
                             <div class="MaskGroupImage">
                                 <div class="Rectangle4380 RectangleImage">
                                 </div>
-                                <img class="RectangleImage" src="<?php bloginfo('template_url'); ?>/assets/images/BOD_2_1.svg" />
+                                <img class="RectangleImage"
+                                    src="<?php bloginfo('template_url'); ?>/assets/images/BOD_2_1.svg" />
                             </div>
                         </div>
                         <div class="frame34687">
                             <div class="frame34685 py-3">
                                 <div class="Scalability">
                                     James Morris</div>
-                                <div class="GrowthDirector" style="color: #242424; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">
+                                <div class="GrowthDirector"
+                                    style="color: #242424; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">
                                     Growth Director</div>
                             </div>
                             <div class="frame34700__text">

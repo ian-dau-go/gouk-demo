@@ -36,9 +36,12 @@
                                 <div class="eesify">
                                     <span>eesify</span>
                                     <br />
-                                    <a class="text-decoration-none text-white" href="https://goldenowl.asia/portfolio/playsquad">
+                                    <a class="text-decoration-none text-white"
+                                        href="https://goldenowl.asia/portfolio/playsquad">
                                         View portfolio&nbsp;
-                                        <img style="width: 15px; height: 8px;" src="<?php bloginfo('template_url'); ?>/assets/images/fi-rs-arrow-right.svg" alt="">
+                                        <img style="width: 15px; height: 8px;"
+                                            src="<?php bloginfo('template_url'); ?>/assets/images/fi-rs-arrow-right.svg"
+                                            alt="">
                                     </a>
                                 </div>
                             </div>
@@ -46,14 +49,18 @@
                     </div>
                     <div class="image-stack__item image-stack__item--bottom">
                         <div class="box">
-                            <img class="--img" src="<?php bloginfo('template_url'); ?>/assets/images/screencapture-eesify-2023-06-27-12_22_25 1.png" />
+                            <img class="--img"
+                                src="<?php bloginfo('template_url'); ?>/assets/images/screencapture-eesify-2023-06-27-12_22_25 1.png" />
                             <div class="bottom-right">
                                 <div class="pace">
                                     <span>Pace.</span>
                                     <br />
-                                    <a class="text-decoration-none text-white" href="https://goldenowl.asia/portfolio/pace">
+                                    <a class="text-decoration-none text-white"
+                                        href="https://goldenowl.asia/portfolio/pace">
                                         View portfolio&nbsp;
-                                        <img style="width: 15px; height: 8px;" src="<?php bloginfo('template_url'); ?>/assets/images/fi-rs-arrow-right.svg" alt="">
+                                        <img style="width: 15px; height: 8px;"
+                                            src="<?php bloginfo('template_url'); ?>/assets/images/fi-rs-arrow-right.svg"
+                                            alt="">
                                     </a>
                                 </div>
                             </div>
