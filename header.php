@@ -54,9 +54,13 @@
                                         </li>
                                         <li>
                                             <div class="frame9461">
-                                                <a class="Service <?php if (isset($args['active']) && $args['active'] === 'services') {
-                                                                        echo 'active';
-                                                                    } ?>" href="<?php echo get_permalink(get_page_by_path('services')) ?>">Service</a>
+                                                <a class="Service
+                                                <?php if (isset($args['active']) && $args['active'] === 'services') {
+                                                    echo 'active';
+                                                } ?>
+                                                                    " href="
+                                                                    <?php echo get_permalink(get_page_by_path('services')) ?>
+                                                                    ">Service</a>
                                                 <div class="Frame9456">
                                                     <img width="12px" height="14px" src="<?php bloginfo('template_url'); ?>/assets/images/frame9456.svg" alt srcset />
                                                 </div>
@@ -64,9 +68,13 @@
                                         </li>
                                         <li>
                                             <div class="frame9461">
-                                                <a class="Blog <?php if (isset($args['active']) && $args['active'] === 'blog') {
-                                                                    echo 'active';
-                                                                } ?>" href="<?php echo get_permalink(get_page_by_path('blog')) ?>">Blog</a>
+                                                <a class="Blog 
+                                                <?php if (isset($args['active']) && $args['active'] === 'blog') {
+                                                    echo 'active';
+                                                } ?>
+                                                                " href="
+                                                                <?php echo get_permalink(get_page_by_path('blog')) ?>
+                                                                ">Blog</a>
                                             </div>
                                         </li>
                                         <li>
