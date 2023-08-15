@@ -329,7 +329,7 @@
      }
 
      .__mr-banner {
-        margin-right: -3vw !important;
+         margin-right: -3vw !important;
      }
  }
 
@@ -4096,4 +4096,8 @@
      font-weight: 700;
      padding: 10px;
      border-radius: 20px;
+ }
+
+ #post-content img {
+     width: 100% !important;
  }
