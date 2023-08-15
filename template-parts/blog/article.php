@@ -6,7 +6,7 @@
             <?php
             echo has_post_thumbnail($post->ID) ?
                 get_the_post_thumbnail_url($post->ID) :
-                get_template_directory_uri() . '/assets/images/Rectangle 4362 22.png' ?>" alt="">
+                get_template_directory_uri() . '/assets/images/blog-default.jpeg' ?>" alt="">
         </div>
         <div class="Frame94955__item--content col-12">
             <div class="d-flex datetime ">

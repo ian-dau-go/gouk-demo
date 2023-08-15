@@ -7,11 +7,10 @@ $post = get_post(get_the_ID());
     <div class="row">
         <div class="container-fluid __px-100px">
             <div class="banner">
-                <img src="<?php 
-                                    echo has_post_thumbnail($post->ID) ? 
-                                        get_the_post_thumbnail_url($post->ID) :  
-                                        get_template_directory_uri(). '/assets/images/Rectangle 4362 22.png' ?>"
-                    alt="">
+                <img src="<?php
+                            echo has_post_thumbnail($post->ID) ?
+                                get_the_post_thumbnail_url($post->ID) :
+                                get_template_directory_uri() . '/assets/images/blog-default.jpeg' ?>" alt="">
             </div>
         </div>
     </div>
@@ -28,8 +27,6 @@ $post = get_post(get_the_ID());
                         </div>
                         <div class="sidebar-body">
                             <ul class="list-group" id="table-of-contents">
-
-
                             </ul>
                         </div>
                         <div class="sidebar-logo-group d-flex">
@@ -50,25 +47,25 @@ $post = get_post(get_the_ID());
                         <span class="">
                             <img width="22px" height="18px"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/icon_create.svg" alt="">
-                            <?php echo  DateTime::createFromFormat('Y-m-d H:i:s', $post->post_modified)->format('M j, Y');?>
+                            <?php echo  DateTime::createFromFormat('Y-m-d H:i:s', $post->post_modified)->format('M j, Y'); ?>
                         </span>
                         <span>
                             <img width="22px" height="18px"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/clock.svg" alt="">
-                            <?php echo do_shortcode('[rt_reading_time post_id="'.$post->ID.'"]')?>minutes read
+                            <?php echo do_shortcode('[rt_reading_time post_id="' . $post->ID . '"]') ?>minutes read
                         </span>
                     </div>
-                    <div class="content py-3" data-bs-spy="scroll" data-bs-target="#list-example" data-bs-offset="0"
-                        class="scrollspy-example" tabindex="0">
+                    <div class="content py-3" data-bs-spy="scroll" data-bs-target="#table-of-contents"
+                        data-bs-offset="0" class="scrollspy-example" tabindex="0">
                         <div class="title py-2">
-                            <h3><?php echo $post->post_title?>
+                            <h3><?php echo $post->post_title ?>
                             </h3>
                         </div>
                         <p class="description py-4">
-                            <?php echo $post->post_excerpt?>
+                            <?php echo $post->post_excerpt ?>
                         </p>
                         <div class="content py-3" id='post-content'>
-                            <?php echo $post->post_content?>
+                            <?php echo $post->post_content ?>
                         </div>
                     </div>
                 </div>
@@ -95,17 +92,17 @@ $(document).ready(function() {
 })
 </script>
 
-<?php 
+<?php
 
 $posts_related_to_post = get_posts(
     [
-    'type' => 'post', 
-    'order_by' => 'date',
-    'order' => 'desc' ,
-    'category__in' => wp_get_post_categories($post->ID),
-    'post__not_in' => array($post->ID)
+        'type' => 'post',
+        'order_by' => 'date',
+        'order' => 'desc',
+        'category__in' => wp_get_post_categories($post->ID),
+        'post__not_in' => array($post->ID)
     ]
 );
 
-get_template_part('template-parts/posts/carousel', null, ['posts' => $posts_related_to_post]);  
+get_template_part('template-parts/posts/carousel', null, ['posts' => $posts_related_to_post]);
 ?>
