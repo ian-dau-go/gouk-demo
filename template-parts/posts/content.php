@@ -2,7 +2,7 @@
                 <div class="row">
                     <div class="container-fluid __px-100px">
                         <div class="banner">
-                            <img src="<?php bloginfo('template_url'); ?>/assets/images/unsplash_SYTO3xs06fU (1).png" alt="">
+                            <!-- <img src="<?php bloginfo('template_url'); ?>/assets/images/unsplash_SYTO3xs06fU (1).png" alt=""> -->
                         </div>
                     </div>
                 </div>
