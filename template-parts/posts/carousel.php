@@ -16,9 +16,8 @@
                 <div class="row carousel-inner w-100 py-3" role="listbox">
 
                     <?php 
-                    foreach($args['posts'] as $post)
-                    {
-                        get_template_part('template-parts/posts/related_post');    
+                    foreach($args['posts'] as $post) {
+                        get_template_part('template-parts/posts/related-post');    
                     }
                     ?>
                 </div>
