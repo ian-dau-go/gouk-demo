@@ -1,4 +1,4 @@
-<a href="<?php echo get_permalink($post->ID)?>"
+<div href="<?php echo get_permalink($post->ID)?>"
     class="Frame94955__item py-md-3 py-lg-3 grid-item col-12 col-md-6 post_link">
     <div class="card">
         <div class="Frame94955__item--image col-12">
@@ -26,4 +26,4 @@
             </p>
         </div>
     </div>
-</a>
+</div>
