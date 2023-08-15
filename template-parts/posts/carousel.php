@@ -1,5 +1,5 @@
 <section class="gouk-carousel">
-    <div class="row">
+    <div class="row mx-auto">
         <div class="container-fluid __px-100px py-5">
             <div id="GoukCarousel" class="carousel slide" data-ride="carousel" data-interval="9000">
                 <div class="d-flex py-2 col-12 justify-content--space-between gap-10px">

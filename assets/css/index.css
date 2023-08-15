@@ -327,6 +327,10 @@
      .__pt-banner {
          padding-top: 0px !important;
      }
+
+     .__mr-banner {
+        margin-right: -3vw !important;
+     }
  }
 
  @media (max-width: 992px) {
@@ -846,10 +850,6 @@
      letter-spacing: 0em;
      text-align: left;
      color: #1D1F21;
- }
-
- .gouk__blog-page .__px-100px {
-     padding: 25px 100px;
  }
 
  .Rectangle4381 {
@@ -2830,7 +2830,7 @@
  .gouk__blog-page .blog__list-of-posts .grid-item:first-child .Frame94955__item--content {
      align-self: center;
      width: 100%;
-     height: 167px;
+     height: min(100%, 167px);
  }
 
  .gouk__blog-page .blog__list-of-posts .grid-item:first-child .Frame94955__item--content .description {
@@ -3730,7 +3730,7 @@
  }
 
  .gouk-carousel .card {
-     height: 458px;
+     height: min(100%, 458px);
      border-radius: 15px;
      background: #F7F7FA;
      border: none;

@@ -14,11 +14,11 @@ function get_category_uri($category)
 
 <section>
     <div class="row mx-auto">
-        <div class="blog__menu container-fluid __px-100px">
+        <div class="blog__menu container-fluid __px-100px py-2">
             <nav class="navbar navbar-expand-lg navbar-light Frame9615">
                 <div class="row mx-auto container-fluid" style="position: relative">
-                    <div id="navbarNav" class="col-12 col-md-11 col-lg-11 col-xl-11 py-3">
-                        <div class="  collapse navbar-collapse">
+                    <div id="navbarNav" class="col-12 col-md-11 col-lg-11 col-xl-11 my-auto">
+                        <div class=" collapse navbar-collapse">
                             <ul class="navbar-nav">
                                 <li class="nav-item <?php echo $category_slug === '' ? 'active' : '' ?>">
                                     <a class="nav-link" aria-current="page"

@@ -1,6 +1,6 @@
 <section>
     <div class="row mx-auto">
-        <div class="blog__list-of-posts __px-100px container-fluid row col-12">
+        <div class="blog__list-of-posts __px-100px py-3 container-fluid row col-12 mx-auto">
             <?php
             $category_slug = get_query_var('category');
             $search = get_query_var('search');
