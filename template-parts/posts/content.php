@@ -23,8 +23,8 @@ $post = get_post(get_the_ID());
                 <div
                     class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-12 sidebar py-3 order-lg-0 order-md-0 order-sm-0 order-1">
                     <div class="sidebar-card">
-                        <div class="text-uppercase sidebar-header">
-                            Table of contents
+                        <div class="text-uppercase sidebar-header" id='table-of-content-title'>
+
                         </div>
                         <div class="sidebar-body">
                             <ul class="list-group" id="table-of-contents">
@@ -75,11 +75,16 @@ $post = get_post(get_the_ID());
             </div>
         </div>
 </section>
+<script
+    src="<?php bloginfo('template_url'); ?>/assets/js/cdn.jsdelivr.net_npm_bootstrap@5.3.0_dist_js_bootstrap.bundle.min.js">
+</script>
 <script src="<?php bloginfo('template_url'); ?>/assets/js/ajax.googleapis.com_ajax_libs_jquery_3.6.4_jquery.min.js">
 </script>
 <script>
 $(document).ready(function() {
     const h4Tags = $("#post-content h4");
+    if (h4Tags.length)
+        $('#table-of-content-title').text('Table of contents');
     h4Tags.each(function() {
         const h4Tag = $(this);
         const h4Text = h4Tag.text();

@@ -8,7 +8,6 @@
 
             $posts = get_posts(
                 ['type' => 'post', 
-               
                 'order_by' => 'date',
                 'order' => 'desc',
                 'category_name' => $category_slug,

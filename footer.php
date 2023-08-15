@@ -321,11 +321,7 @@
 </div>
 </div>
 </body>
-<script
-    src="<?php bloginfo('template_url'); ?>/assets/js/cdn.jsdelivr.net_npm_bootstrap@5.3.0_dist_js_bootstrap.bundle.min.js">
-</script>
-<script src="<?php bloginfo('template_url'); ?>/assets/js/ajax.googleapis.com_ajax_libs_jquery_3.6.4_jquery.min.js">
-</script>
+
 <script
     src="<?php bloginfo('template_url'); ?>/assets/js/cdnjs.cloudflare.com_ajax_libs_OwlCarousel2_2.3.4_owl.carousel.js">
 </script>
