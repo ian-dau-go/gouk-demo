@@ -26,7 +26,7 @@
         <div class=" d-flex flex-column justify-content-start">
             <div class="d-flex flex-column align-items-start gap-4" style="margin-bottom:20px">
                 <div
-                    style="padding-left:20px; padding-right:20px;width: 100%;  flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex"   >
+                    style="padding-left:20px; padding-right:20px;width: 100%;  flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
                     <div
                         style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 6px; display: flex">
                         <div
