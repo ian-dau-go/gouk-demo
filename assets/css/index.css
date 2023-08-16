@@ -3575,7 +3575,7 @@
      }
  }
 
- @media (max-width: 992px) {
+ @media (max-width: 1350px) {
      .image-stack__item--top {
          grid-column: 1 / span 11;
      }

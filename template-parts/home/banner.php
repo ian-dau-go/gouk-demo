@@ -34,10 +34,11 @@
                             <img class="--img" src="<?php bloginfo('template_url'); ?>/assets/images/banner2.svg" />
                             <div class="bottom-right">
                                 <div class="eesify">
-                                    <span>eesify</span>
+                                    <span>Pace.</span>
                                     <br />
                                     <a class="text-decoration-none text-white"
-                                        href="https://goldenowl.asia/portfolio/playsquad">
+                                        href="https://goldenowl.asia/portfolio/pace">
+
                                         View portfolio&nbsp;
                                         <img style="width: 15px; height: 8px;"
                                             src="<?php bloginfo('template_url'); ?>/assets/images/fi-rs-arrow-right.svg"
@@ -53,10 +54,10 @@
                                 src="<?php bloginfo('template_url'); ?>/assets/images/screencapture-eesify-2023-06-27-12_22_25 1.png" />
                             <div class="bottom-right">
                                 <div class="pace">
-                                    <span>Pace.</span>
+                                    <span>essify</span>
                                     <br />
                                     <a class="text-decoration-none text-white"
-                                        href="https://goldenowl.asia/portfolio/pace">
+                                        href="https://goldenowl.asia/portfolio/playsquad">
                                         View portfolio&nbsp;
                                         <img style="width: 15px; height: 8px;"
                                             src="<?php bloginfo('template_url'); ?>/assets/images/fi-rs-arrow-right.svg"
