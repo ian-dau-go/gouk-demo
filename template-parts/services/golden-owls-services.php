@@ -1,6 +1,6 @@
 <section>
     <div class="row mx-auto">
-        <div class="__px-100px py-3 container-fluid">
+        <div class="__px-100px py-5 container-fluid">
             <div class="row mx-auto">
                 <div
                     class="col-sm-12 col-xl-5 col-lg-5 px-0 d-flex flex-column justify-content-center align-content-center">

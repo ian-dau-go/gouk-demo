@@ -17,7 +17,7 @@
             </div>
             <div class="col-12 frame9630  d-xl-none d-lg-none d-md-block d-sm-block d-block">
                 <div class="owl-carousel owl-theme">
-                    <!-- <div class="frame9387 d-flex justify-content-center item w-100"> -->
+
                     <div class="frame8984">
                         <img class="Rectangle28" style="width: 236px; height: 215px"
                             src="<?php bloginfo('template_url'); ?>/assets/images/Group.svg" />
@@ -34,8 +34,7 @@
                         <img class="Rectangle28" style="width: 207px; height: 242px"
                             src="<?php bloginfo('template_url'); ?>/assets/images/Rectangle 28.png" />
                     </div>
-                    <!-- </div> -->
-                    <!-- <div class="frame9387 d-flex justify-content-center item"> -->
+
                     <div class="frame34735">
                         <img class="Rectangle30" style="width: 181px; height: 220px"
                             src="<?php bloginfo('template_url'); ?>/assets/images/Rectangle 30.png" />
@@ -48,8 +47,7 @@
                         <img class="Rectangle29" style="width: 181px; height: 220px"
                             src="<?php bloginfo('template_url'); ?>/assets/images/Rectangle 29.png" />
                     </div>
-                    <!-- </div> -->
-                    <!-- <div class="frame9387 justify-content-center item"> -->
+
                     <div class="frame34736">
                         <img class="BannerServiceWhite1" style="width: 310px; height: 244px"
                             src="<?php bloginfo('template_url'); ?>/assets/images/banner-service-white.png" />
@@ -62,7 +60,7 @@
                         <img class="BannerServiceWhite21" style="width: 310px; height: 244px"
                             src="<?php bloginfo('template_url'); ?>/assets/images/banner-service-white2.png" />
                     </div>
-                    <!-- </div> -->
+
                 </div>
             </div>
             <div class="col-12 frame9630 d-xl-block d-lg-block d-md-none d-sm-none d-none">
@@ -85,7 +83,7 @@
                                 src="<?php bloginfo('template_url'); ?>/assets/images/Rectangle 28.png" />
                         </div>
                     </div>
-                    <div class="frame9387 d-flex justify-content-center item">
+                    <div class="frame9387 d-flex justify-content-center item" style="padding: 0 20%">
                         <div class="frame34735">
                             <img class="Rectangle30" style="width: 181px; height: 220px"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/Rectangle 30.png" />

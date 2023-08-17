@@ -21,7 +21,8 @@
             </div>
             <div class="Frame34966" style="gap: 20px">
                 <div class="Frame34960 w-100 row">
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5">
+                    <div
+                        class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5 pe-lg-5 pe-md-3 pe-xl-5 ">
                         <a class="Frame34869 w-100 text-decoration-none"
                             href="https://goldenowl.asia/services/web-development\"
                             style="flex: 1 1 0; align-self: stretch; background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
@@ -51,7 +52,8 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5">
+                    <div
+                        class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5 pe-lg-5 pe-md-3 pe-xl-5 ">
                         <a class="Frame34868 w-100 text-decoration-none"
                             href="https://goldenowl.asia/services/mobile-development"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
@@ -76,7 +78,8 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5">
+                    <div
+                        class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5 pe-lg-5 pe-md-3 pe-xl-5 ">
                         <a class="Frame34870 w-100 text-decoration-none"
                             href="https://goldenowl.asia/services/ux-ui-services"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
@@ -100,7 +103,8 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5">
+                    <div
+                        class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5 pe-lg-5 pe-md-3 pe-xl-5 ">
                         <a class="Frame34869 w-100 text-decoration-none"
                             href="https://goldenowl.asia/services/project-management"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
@@ -124,7 +128,8 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5">
+                    <div
+                        class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5 pe-lg-5 pe-md-3 pe-xl-5 ">
                         <a class="Frame34868 w-100 text-decoration-none"
                             href="https://goldenowl.asia/services/development-team"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
@@ -150,7 +155,8 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5">
+                    <div
+                        class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5 pe-lg-5 pe-md-3 pe-xl-5 ">
                         <a class="Frame34870 w-100 text-decoration-none"
                             href="https://goldenowl.asia/services/it-solutions-consulting"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
@@ -176,7 +182,8 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5">
+                    <div
+                        class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5 pe-lg-5 pe-md-3 pe-xl-5 ">
                         <a class="Frame34868 w-100 text-decoration-none"
                             href="https://goldenowl.asia/services/digital-transformation"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
@@ -200,7 +207,8 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5">
+                    <div
+                        class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5 pe-lg-5 pe-md-3 pe-xl-5 ">
                         <a class="Frame34869 w-100 text-decoration-none"
                             href="https://goldenowl.asia/services/automation-testing"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
@@ -226,7 +234,8 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5">
+                    <div
+                        class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5 pe-lg-5 pe-md-3 pe-xl-5 ">
                         <a class="Frame34870 w-100 text-decoration-none"
                             href="https://goldenowl.asia/services/microservices"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
@@ -249,7 +258,8 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5">
+                    <div
+                        class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5 pe-lg-5 pe-md-3 pe-xl-5 ">
                         <a class="Frame34869 w-100 text-decoration-none"
                             href="https://goldenowl.asia/services/cyber-security"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
@@ -275,7 +285,8 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5">
+                    <div
+                        class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5 pe-lg-5 pe-md-3 pe-xl-5 ">
                         <a class="Frame34868 w-100 text-decoration-none"
                             href="https://goldenowl.asia/services/data-analytics"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
@@ -296,7 +307,8 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5">
+                    <div
+                        class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5 pe-lg-5 pe-md-3 pe-xl-5 ">
                         <a class="Frame34870 w-100 text-decoration-none" href="https://goldenowl.asia/services/odoo-erp"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
                             <div class="Odoo" style="width: 60px; height: 60px; position: relative">
@@ -315,7 +327,8 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5">
+                    <div
+                        class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5 pe-lg-5 pe-md-3 pe-xl-5 ">
                         <a class="Frame34868 w-100 text-decoration-none"
                             href="https://goldenowl.asia/services/build-operate-transfer"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
@@ -336,7 +349,8 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5">
+                    <div
+                        class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5 pe-lg-5 pe-md-3 pe-xl-5 ">
                         <a class="Frame34869 w-100 text-decoration-none" href="https://goldenowl.asia/services/ai"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
                             <div class="ArtificialIntelligence1" style="width: 60px; height: 60px; position: relative">
@@ -356,7 +370,8 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5">
+                    <div
+                        class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 py-3 py-sm-4 py-md-5 py-lg-5 py-xl-5 pe-lg-5 pe-md-3 pe-xl-5 ">
                         <a class="Frame34870 w-100 text-decoration-none" href="#"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
                             <div class="More1" style="width: 60px; height: 60px; position: relative">

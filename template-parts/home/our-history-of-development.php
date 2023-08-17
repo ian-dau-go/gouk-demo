@@ -452,7 +452,8 @@
                                     src="<?php bloginfo('template_url'); ?>/assets/images/timeline2223_image4_frame34787.svg" />
                             </div>
                         </div>
-                        <a class="frame34763 text-decoration-none" href="https://goldenowl.asia/portfolio"
+                        <a class="frame34763 text-decoration-none link-portfolio"
+                            href="https://goldenowl.asia/portfolio"
                             style="justify-content: flex-start; align-items: center; gap: 4px; display: inline-flex">
                             <div class="SeePortfolio"
                                 style="color: #909090; font-size: 14px; font-family: Montserrat; font-weight: 500; line-height: 21px; word-wrap: break-word">
@@ -486,7 +487,8 @@
                             <img class="Image154" style="width: 126px; height: 146px"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/image154.svg" />
                         </div>
-                        <a class="frame34763 text-decoration-none" href="https://goldenowl.asia/portfolio"
+                        <a class="frame34763 text-decoration-none link-portfolio"
+                            href="https://goldenowl.asia/portfolio"
                             style="justify-content: flex-start; align-items: center; gap: 4px; display: inline-flex">
                             <div class="SeePortfolio"
                                 style="color: #909090; font-size: 14px; font-family: Montserrat; font-weight: 500; line-height: 21px; word-wrap: break-word">
@@ -619,7 +621,7 @@
                         concrete business value and
                         leave a long-lasting
                         impression.<br /></div>
-                    <a class="frame34763 text-decoration-none" href="https://goldenowl.asia/portfolio"
+                    <a class="frame34763 text-decoration-none link-portfolio" href="https://goldenowl.asia/portfolio"
                         style="color: #909090; justify-content: flex-start; align-items: center; gap: 4px; display: inline-flex">
                         <div class="SeePortfolio"
                             style="color: #1D1F21; font-size: 14px; font-family: Montserrat; font-weight: 700; line-height: 21px; word-wrap: break-word">

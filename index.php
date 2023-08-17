@@ -2,7 +2,7 @@
 get_header('', ["title" => 'Home Page']);
 
 get_template_part('template-parts/home/banner');
-get_template_part('template-parts/home/partners-marquee');
+get_template_part('template-parts/home/partner-marquee');
 get_template_part('template-parts/home/partners');
 get_template_part('template-parts/home/why-choose-golden-owl');
 get_template_part('template-parts/home/vision');

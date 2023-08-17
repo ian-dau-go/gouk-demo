@@ -2,17 +2,14 @@
   init();
   function init() {
     wheelHandler();
-    // mousemoveHandler();
 
     $(document).ready(function () {
       $(".owl-carousel").owlCarousel({
         autoplay: true,
         center: true,
-        // margin: 10,
         loop: true,
         infinite: true,
         nav: false,
-        // rtl: true,
         dots: true,
         items: 1,
         autoplayTimeout: 5000,
@@ -40,15 +37,9 @@
       var x = e.clientX;
       var y = e.clientY;
 
-      // var element = e.target;
       var rect = timeline.getBoundingClientRect();
       var offsetX = x - rect.left;
       var offsetY = y - rect.top;
-
-      // while (element !== timeline) {
-      // offsetY += element.offsetTop;
-      // element = element.parentNode;
-      // }
 
       circle.style.left = offsetX + "px";
       circle.style.top = offsetY + "px";

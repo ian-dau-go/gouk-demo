@@ -33,17 +33,24 @@
                         <div class="box">
                             <img class="--img" src="<?php bloginfo('template_url'); ?>/assets/images/banner2.svg" />
                             <div class="bottom-right">
-                                <div class="eesify">
-                                    <span>Pace.</span>
-                                    <br />
-                                    <a class="text-decoration-none text-white"
-                                        href="https://goldenowl.asia/portfolio/pace">
 
-                                        View portfolio&nbsp;
-                                        <img style="width: 15px; height: 8px;"
-                                            src="<?php bloginfo('template_url'); ?>/assets/images/fi-rs-arrow-right.svg"
-                                            alt="">
-                                    </a>
+                                <div class="eesify py-0">
+                                    <div class="d-flex align-items-center py-0">
+                                        <div style="background: #D9D9D9; height: 40px; width: 1px; margin-right: 10px;">
+                                        </div>
+                                        <div>
+                                            <span class="py-0">Pace.</span>
+                                            <br />
+                                            <a class="text-decoration-none text-white"
+                                                href="https://goldenowl.asia/portfolio/pace">
+
+                                                View portfolio&nbsp;
+                                                <img style="width: 15px; height: 8px;"
+                                                    src="<?php bloginfo('template_url'); ?>/assets/images/fi-rs-arrow-right.svg"
+                                                    alt="">
+                                            </a>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -53,22 +60,31 @@
                             <img class="--img"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/screencapture-eesify-2023-06-27-12_22_25 1.png" />
                             <div class="bottom-right">
-                                <div class="pace">
-                                    <span>essify</span>
-                                    <br />
-                                    <a class="text-decoration-none text-white"
-                                        href="https://goldenowl.asia/portfolio/playsquad">
-                                        View portfolio&nbsp;
-                                        <img style="width: 15px; height: 8px;"
-                                            src="<?php bloginfo('template_url'); ?>/assets/images/fi-rs-arrow-right.svg"
-                                            alt="">
-                                    </a>
+                                <div class="pace py-0">
+                                    <div class="d-flex align-items-center">
+                                        <div
+                                            style="background: #D9D9D9; height: 35px; width: 1px; margin-right: 10px; margin-top: 5px;">
+                                        </div>
+                                        <div class="py-0">
+                                            <span class="pt-0">essify</span>
+                                            <br />
+                                            <a class="text-decoration-none text-white"
+                                                href="https://goldenowl.asia/portfolio/playsquad">
+                                                View portfolio&nbsp;
+                                                <img style="width: 15px; height: 8px;"
+                                                    src="<?php bloginfo('template_url'); ?>/assets/images/fi-rs-arrow-right.svg"
+                                                    alt="">
+                                            </a>
+                                        </div>
+                                    </div>
                                 </div>
+
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
     </div>
 </section>

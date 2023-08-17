@@ -55,7 +55,7 @@
      align-self: stretch;
      justify-content: flex-start;
      align-items: center;
-     gap: 10px;
+     gap: 6px;
      display: flex;
  }
 
@@ -86,9 +86,7 @@
  }
 
  .Frame9456 {
-     width: 12px;
-     height: 14px;
-     position: relative;
+     height: 15px;
  }
 
  .Frame9456 img {
@@ -304,8 +302,15 @@
      color: white;
  }
 
+
+
  .eesify a,
  .pace a {
+     color: white;
+     font-size: 16px;
+     font-family: Mallory;
+     font-weight: 400;
+     word-wrap: break-word;
      display: flex;
      align-content: center;
      flex-direction: row;
@@ -315,7 +320,11 @@
 
  .pace span,
  .eesify span {
-     font-weight: bold;
+     color: white;
+     font-size: 20px;
+     font-family: Mallory;
+     font-weight: 700;
+     word-wrap: break-word
  }
 
  @supports (display: grid) {
@@ -337,7 +346,6 @@
 
      .eesify,
      .pace {
-         padding: 10px;
          width: min(30vw, 150px);
          font-size: 10px;
          border-radius: 12px;
@@ -361,7 +369,6 @@
      @supports (display: grid) {
          .pace {
              grid-row: 1;
-             padding-top: 10px !important;
              grid-column: 5 / span 3 !important;
          }
 
@@ -1071,7 +1078,7 @@
 
  .GoldenOwlSCustomersHaveExperienced {
      color: black;
-     font-size: min(14px);
+     font-size: min(16px);
      font-family: Montserrat;
      font-weight: 400;
      line-height: 24px;
@@ -1419,10 +1426,11 @@
 
  .frame34686,
  .frame34687 {
-     height: min(100%, 520px);
+     min-height: 416px;
      max-height: 520px;
+     height: 100%;
      overflow: scroll;
-     padding-top: 135px;
+     padding-top: 130px;
      padding-bottom: 30px;
      padding-left: 20px;
      padding-right: 20px;
@@ -1571,10 +1579,8 @@
  }
 
  .frame9632 {
-     padding-left: 24px;
-     padding-right: 24px;
-     padding-top: 10px;
-     padding-bottom: 10px;
+
+     padding: 20px 24px;
      background: black;
      border-radius: 30px;
      border: 0.50px black solid;
@@ -1870,7 +1876,6 @@
 
      .pace {
          grid-row: 1;
-         padding-top: 28%;
          grid-column: 7 / span 8;
      }
  }
@@ -1975,7 +1980,7 @@
      color: black;
      font-size: min(18px, 3.5vw);
      font-family: Montserrat;
-     font-weight: 600;
+     font-weight: 500;
      word-wrap: break-word;
      line-height: 21.94px;
      text-wrap: nowrap;
@@ -2110,7 +2115,7 @@
      -webkit-animation-duration: 10s;
      animation-duration: 10s;
      position: relative;
-     animation: frame34799 10s linear infinite;
+     animation: frame34799 20s linear infinite;
      transform: translate3d(0, 0, 0);
  }
 
@@ -2131,7 +2136,7 @@
      -webkit-animation-duration: 10s;
      animation-name: frame34798;
      position: relative;
-     animation: frame34798 10s linear infinite;
+     animation: frame34798 20s linear infinite;
      transform: translate3d(0, 0, 0);
  }
 
@@ -2354,7 +2359,8 @@
      position: absolute;
      background: white;
      border-radius: 9999px;
-     border: 1px #F5C118 dotted
+     border: 2px #F5C118 dotted;
+     padding: 2px;
  }
 
  .frame34685 {
@@ -4109,4 +4115,8 @@
 
  .owl-dots {
      margin-top: 30px !important;
+ }
+
+ .link-portfolio:hover {
+     transform: scale(1.2) translate(10%);
  }
