@@ -16,7 +16,7 @@
                 <div class="frame34661 row mx-auto col-12 w-100 py-2">
                     <div class="frame34701 col-12 col-sm-6 col-md-6 col-lg-6 py-3 my-auto">
                         <img class="MacbookPro16 w-100 h-100" style="object-fit: cover;"
-                            src="<?php bloginfo('template_url'); ?>/assets/images/frame34701.svg" />
+                            src="<?php bloginfo('template_url'); ?>/assets/images/Frame34701.svg" />
                     </div>
                     <div class="frame9501 col-12 col-sm-6 col-md-6 col-lg-6 py-3 my-auto">
                         <div class="frame34702">
