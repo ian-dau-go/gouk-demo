@@ -1466,7 +1466,7 @@
  }
 
  .frame34690 {
-     width: 33%;
+
      flex-direction: column;
      justify-content: flex-start;
      align-items: center;
@@ -1490,7 +1490,7 @@
  .frame34686,
  .frame34687 {
      min-height: 416px;
-     max-height: 520px;
+     max-height: 550px;
      height: 100%;
      overflow: scroll;
      padding-top: 130px;
@@ -1506,7 +1506,7 @@
  }
 
  .frame34688 {
-     width: 33%;
+
      flex-direction: column;
      justify-content: flex-start;
      align-items: center;
@@ -4220,5 +4220,35 @@
 
      .our-hardworking-staff--content {
          text-align: left;
+     }
+
+     .frame34690,
+     .frame34688 {
+         margin: 0 5%;
+     }
+ }
+
+ .our-team-nav {
+     cursor: pointer;
+ }
+
+ .our-team-nav:hover {
+     transform: scale(1.2);
+ }
+
+
+ @media (max-width: 700px) {
+
+     .frame34686,
+     .frame34687 {
+         height: 500px;
+     }
+ }
+
+ @media (max-width: 500px) {
+
+     .frame34686,
+     .frame34687 {
+         height: 550px;
      }
  }

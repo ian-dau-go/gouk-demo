@@ -22,13 +22,40 @@
         });
       }
 
+      const owlPost = $("#our-team");
       console.log(bodyWidth);
+      if (bodyWidth < 992) {
+        owlPost.addClass("owl-carousel");
+        owlPost.owlCarousel({
+          autoplay: true,
+          center: true,
+          loop: true,
+          infinite: true,
+          dots: false,
+          items: 1,
+          autoplayTimeout: 8000,
+          autoplayHoverPause: true,
+        });
+      } else {
+        if (typeof owlPost.data("owl.carousel") != "undefined") {
+          owlPost.data("owl.carousel").destroy();
+        }
+        owlPost.removeClass("owl-carousel");
+      }
+
+      $("#our-team-nav-next").click(function () {
+        owlPost.trigger("next.owl.carousel", [100]);
+      });
+
+      $("#our-team-nav-prev").click(function () {
+        owlPost.trigger("prev.owl.carousel", [100]);
+      });
     }
     $(document).ready(handleResize);
     $(window).on("resize", handleResize);
 
     $(document).ready(function () {
-      $(".owl-carousel").owlCarousel({
+      $(".archievements").owlCarousel({
         autoplay: true,
         center: true,
         loop: true,

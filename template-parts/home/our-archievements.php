@@ -16,7 +16,7 @@
                     speaks most about us.</div>
             </div>
             <div class="col-12 frame9630  d-xl-none d-lg-none d-md-block d-sm-block d-block">
-                <div class="owl-carousel owl-theme">
+                <div class="owl-carousel archievements owl-theme">
 
                     <div class="frame8984">
                         <img class="Rectangle28" style="width: 236px; height: 215px"
@@ -64,7 +64,7 @@
                 </div>
             </div>
             <div class="col-12 frame9630 d-xl-block d-lg-block d-md-none d-sm-none d-none">
-                <div class="owl-carousel owl-theme">
+                <div class="owl-carousel archievements owl-theme">
                     <div class="frame9387 d-flex justify-content-center item w-100">
                         <div class="frame8984">
                             <img class="Rectangle28" style="width: 236px; height: 215px"
