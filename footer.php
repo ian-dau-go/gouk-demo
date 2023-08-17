@@ -328,7 +328,7 @@
 <script
     src="<?php bloginfo('template_url'); ?>/assets/js/cdnjs.cloudflare.com_ajax_libs_OwlCarousel2_2.3.4_owl.carousel.min.js">
 </script>
-<script src="<?php bloginfo('template_url'); ?>/assets/js/index2.js"></script>
+<script src="<?php bloginfo('template_url'); ?>/assets/js/index.js"></script>
 <script src="<?php bloginfo('template_url'); ?>/assets/js/blog.js"></script>
 
 

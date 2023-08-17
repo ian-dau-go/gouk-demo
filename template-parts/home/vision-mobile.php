@@ -1,4 +1,4 @@
-<section>
+<section class="d-lg-none">
     <div class="row mx-auto">
         <div class="frame34674 w-100 __px-100px">
             <div class="col-12 d-flex justify-content-center">
@@ -14,19 +14,17 @@
             </div>
             <div class="col-12 frame34666">
                 <div class="frame34661 row mx-auto col-12 w-100 py-2">
-                    <div class="frame34701 col-12 col-sm-6 col-md-6 col-lg-6 p-0 my-auto">
-                        <img class="MacbookPro16 w-100 h-100" style="object-fit: cover;"
-                            src="<?php bloginfo('template_url'); ?>/assets/images/Frame34701.svg" />
-                    </div>
-                    <div class="frame9501 col-12 col-sm-6 col-md-6 col-lg-6 py-3 my-auto">
-                        <div class="frame34702">
+
+                    <div class="frame9501 col-12 py-3 my-auto">
+                        <div class="frame34702"
+                            style="border-right: 4px solid #ECECEC; padding-right: 9px; margin-right: 9px;">
                             <div class="frame34675">
                                 <div class="Ellipse146">
                                 </div>
                                 <div class="Ellipse145">
                                     01</div>
                             </div>
-                            <div class="Rectangle43880"></div>
+
                         </div>
                         <div class="frame34676">
                             <div class="SeasonedSoftwareExperts"><span>Seasoned
@@ -43,18 +41,23 @@
                                 experience to the table.</div>
                         </div>
                     </div>
+                    <div class="frame34701 col-12 p-0 my-auto">
+                        <img class="MacbookPro16 w-100 h-100" style="object-fit: cover;"
+                            src="<?php bloginfo('template_url'); ?>/assets/images/Frame34701.svg" />
+                    </div>
                 </div>
             </div>
             <div class="frame34663 w-100 row mx-auto py-2">
-                <div class="frame9501 col-sm-6 col-md-6 col-lg-6 py-3 my-auto">
-                    <div class="frame34702">
+                <div class="frame9501 col-12 py-3 my-auto">
+                    <div class="frame34702"
+                        style="border-right: 4px solid #ECECEC; padding-right: 9px; margin-right: 9px;">
                         <div class="frame34675">
                             <div class="Ellipse146">
                             </div>
                             <div class="Ellipse147">
                                 02</div>
                         </div>
-                        <div class="Rectangle43880"></div>
+
                     </div>
                     <div class="frame34677">
                         <div class="CommitmentToCustomerSatisfaction">
@@ -78,7 +81,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="frame34662 col-sm-6 col-md-6 col-lg-6 p-0 my-auto" style="position: relative">
+                <div class="frame34662 col-12 p-0 my-auto" style="position: relative">
                     <div class="Iphone143 w-100">
                         <img style="object-fit: cover;" class="w-100 h-100"
                             src="<?php bloginfo('template_url'); ?>/assets/images/frame34662.svg" />
@@ -86,20 +89,17 @@
                 </div>
             </div>
             <div class="frame34664 row mx-auto w-100 py-2">
-                <div class="frame34660 col-sm-6 col-md-6 col-lg-6 p-0 my-auto" style="position: relative">
-                    <img class="Mockup21 w-100 h-100" style="object-fit: cover;"
-                        src="<?php bloginfo('template_url'); ?>/assets/images/frame34660.svg" />
-                </div>
-                <div class="frame9501 col-sm-6 col-md-6 col-lg-6 py-3 my-auto">
-                    <div class="frame34702">
+
+                <div class="frame9501 col-12 py-3 my-auto">
+                    <div class="frame34702"
+                        style="border-right: 4px solid #ECECEC; padding-right: 9px; margin-right: 9px;">
                         <div class="frame34675">
                             <div class="Ellipse146">
                             </div>
                             <div class="Ellipse147">
                                 03</div>
                         </div>
-                        <div class="Rectangle43880" style="width: 132px; height: 4px; background: #ECECEC">
-                        </div>
+
                     </div>
                     <div class="frame34678"
                         style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
@@ -121,17 +121,22 @@
                         </div>
                     </div>
                 </div>
+                <div class="frame34660 col-12 p-0 my-auto" style="position: relative">
+                    <img class="Mockup21 w-100 h-100" style="object-fit: cover;"
+                        src="<?php bloginfo('template_url'); ?>/assets/images/frame34660.svg" />
+                </div>
             </div>
             <div class="frame34665 row mx-auto w-100 py-2">
-                <div class="frame9501 col-sm-6 col-md-6 col-lg-6 py-3 my-auto">
-                    <div class="frame34702">
+                <div class="frame9501 col-12 py-3 my-auto">
+                    <div class="frame34702"
+                        style="border-right: 4px solid #ECECEC; padding-right: 9px; margin-right: 9px;">
                         <div class="frame34675">
                             <div class="Ellipse146">
                             </div>
                             <div class="Ellipse147">
                                 04</div>
                         </div>
-                        <div class="Rectangle43880"></div>
+
                     </div>
                     <div class="frame34679">
                         <div class="Specialization">
@@ -153,7 +158,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="frame34659 col-sm-6 col-md-6 col-lg-6 p-0 my-auto" style="position: relative">
+                <div class="frame34659 col-12 p-0 my-auto" style="position: relative">
                     <img class="Blue w-100 h-100"
                         src="<?php bloginfo('template_url'); ?>/assets/images/Frame34659.svg" />
                 </div>

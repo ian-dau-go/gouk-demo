@@ -1,6 +1,6 @@
 <?php
 
-get_header("",["active" => "services" ,"title" => "Service"]); 
+get_header("", ["active" => "services" ,"title" => "Services - Golden Owl"]); 
 
 get_template_part('template-parts/services/golden-owls-services'); 
 get_template_part('template-parts/services/our-services');   

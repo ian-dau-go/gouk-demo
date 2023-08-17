@@ -13,6 +13,8 @@
             echo 'Unknow page';
         } ?>
     </title>
+
+    <link rel="icon" href="<?php bloginfo('template_url'); ?>/assets/images/go.png" />
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/index.css" type="text/css"
         media="screen" />
     <link rel="stylesheet"

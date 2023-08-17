@@ -155,6 +155,7 @@
      }
  }
 
+
  .Unleash {
      font-size: min(9vw, 40px) !important;
  }
@@ -164,6 +165,19 @@
      font-family: Montserrat;
      font-weight: 500;
      word-wrap: break-word;
+ }
+
+
+ @media (max-width: 576px) {
+     .Unleash {
+         font-size: 22px !important;
+         line-height: 33px;
+     }
+
+     .frame34718 {
+         font-size: 16px;
+         line-height: 24px;
+     }
  }
 
  .golden-owl {
@@ -402,6 +416,7 @@
          padding-top: 30px !important;
      }
  }
+
 
  .Frame34794 a {
      display: flex;
@@ -1241,9 +1256,11 @@
      position: relative;
  }
 
+
+
  .Ellipse146 {
-     width: 80px;
-     height: 80px;
+     width: 100%;
+     height: 100%;
      left: 0px;
      top: 0px;
      position: absolute;
@@ -1262,6 +1279,7 @@
      line-height: 51px;
      word-wrap: break-word
  }
+
 
  .Rectangle43880 {
      width: 132px;
@@ -1293,6 +1311,8 @@
      word-wrap: break-word
  }
 
+
+
  .frame34676,
  .frame34677,
  .frame34679 {
@@ -1317,6 +1337,49 @@
      font-family: Montserrat;
      font-weight: 500;
      word-wrap: break-word
+ }
+
+
+ @media only screen and (max-width: 576px) {
+
+     .frame34675 {
+         width: 40px;
+         height: 40px;
+         position: relative;
+     }
+
+     .Ellipse145,
+     .Ellipse147 {
+         left: 10px;
+         top: 7px;
+         font-size: 17px;
+         line-height: 26px;
+         word-wrap: break-word
+     }
+
+     .frame34702 {
+         width: 77px;
+         margin-right: 0 !important;
+         gap: 5px;
+
+     }
+
+     .GoldenOwlSCustomersHaveExperienced {
+         font-size: 14px;
+     }
+
+     .frame34676 span,
+     .frame34677 span,
+     .frame34678 span,
+     .frame34679 span {
+
+         font-size: 16px !important;
+
+     }
+
+     .GoldenOwlSVision span {
+         font-size: 20px;
+     }
  }
 
  .Specialization {
@@ -2984,6 +3047,12 @@
 
  }
 
+ @media only screen and (max-width: 992px) {
+     .frame9501 {
+         flex-direction: row;
+     }
+ }
+
  @media only screen and (max-width: 576px) {
      .gouk__blog-page .blog__list-of-posts .grid-item .Frame94955__item--image {
          width: 100% !important;
@@ -3006,9 +3075,6 @@
          order: 2
      }
 
-     .frame9501 {
-         flex-direction: row;
-     }
 
      .screen-max-576 {
          display: block;
@@ -4119,4 +4185,40 @@
 
  .link-portfolio:hover {
      transform: scale(1.2) translate(10%);
+ }
+
+ @media (max-width: 576px) {
+     .LetGoldenOwlConsultingBeYourItConsultant {
+         text-align: center;
+     }
+
+     .frame34787__images--our-hardworking-staff .px-3 {
+         padding: 8px !important;
+     }
+
+     .frame34787__images--our-hardworking-staff {
+         padding: 0px;
+     }
+
+     .__px-100px {
+         padding-left: 10px !important;
+         padding-right: 10px !important;
+     }
+ }
+
+ @media (max-width: 992px) {
+
+     .frame34787 {
+         margin-top: 15px;
+     }
+
+     .frame34787,
+     .frame34691 {
+         justify-content: flex-start !important;
+         align-items: flex-start !important;
+     }
+
+     .our-hardworking-staff--content {
+         text-align: left;
+     }
  }

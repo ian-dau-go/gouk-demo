@@ -23,7 +23,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-7 py-3 timeline" style="border-left: 12px solid #F5C118;">
+            <div class="col-lg-7 py-3 timeline">
                 <div class="position-relative">
                     <main class="frame34786"
                         style="cursor: url('<?php bloginfo('template_url'); ?>/assets/images//Frame34977.svg'), auto;"">
