@@ -4206,7 +4206,6 @@
  }
 
  @media (max-width: 992px) {
-
      .frame34787 {
          margin-top: 15px;
      }
@@ -4237,7 +4236,6 @@
 
 
  @media (max-width: 700px) {
-
      .frame34686,
      .frame34687 {
          height: 500px;
@@ -4245,12 +4243,11 @@
  }
 
  @media (max-width: 500px) {
-
      .frame34686,
      .frame34687 {
          height: 550px;
+     }
  }
-}
 
  @media (max-width: 768px) {
      :root {
