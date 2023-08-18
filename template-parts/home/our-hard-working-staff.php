@@ -3,7 +3,7 @@
         <div class="row mx-auto w-100 __px-100px py-5">
             <div class="col-lg-7 frame34787__images--our-hardworking-staff">
                 <div class="MaskGroup row mx-auto">
-                    <div class="px-3 w-50">
+                    <div class="pl-0 w-50">
                         <div class="frame34799  frame34787__images--gird" style>
                             <img class="Img49092 w-100" style="height: 260px; border-radius: 10px"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4909 2.png" />
@@ -49,7 +49,7 @@
                                 src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5033 1.png" />
                         </div>
                     </div>
-                    <div class="px-3 w-50">
+                    <div class="pr-0 w-50">
                         <div class="frame34798 frame34787__images--gird" style>
                             <img class="Img50831 w-100" style="height: 250px; top: 0px; border-radius: 10px"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5083 1.png" />

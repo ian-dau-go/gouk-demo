@@ -12,7 +12,7 @@
                         <div style="width: 35%; height: 4px; background: #F5C118"></div>
                     </div>
                     <div
-                        style="width: 100%; height: 81px; color: #1D1F21; font-size: 16px; font-family: Mallory; font-weight: 400; line-height: 24px; word-wrap: break-word">
+                        style="width: 100%; color: #1D1F21; font-size: 16px; font-family: Mallory; font-weight: 400; line-height: 24px; word-wrap: break-word">
                         Our core belief puts in equipping your business with a highly skilled and exceptional talents,
                         thus enabling its growth and success.</div>
                 </div>
