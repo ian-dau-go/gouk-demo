@@ -3651,9 +3651,9 @@
      }
  }
 
- @media (max-width: 1350px) {
+ @media (max-width: 1200px) {
      .image-stack__item--top {
-         grid-column: 1 / span 11;
+         grid-column: 1 / span 9;
      }
 
      .banner-container {
@@ -3702,7 +3702,7 @@
      }
 
      .frame34719 {
-         position: relative;
+         position: relative !important;
      }
 
      .align-items {
