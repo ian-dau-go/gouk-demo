@@ -28,12 +28,11 @@
                 </div>
             </div>
             <div class="banner-container col-sm-12 col-md-12 position-relative">
-                <div class="image-stack">
-                    <div class="image-stack__item image-stack__item--top">
-                        <div class="box">
+                <div class="image-stack slider full-bleed">
+                    <div class="slidewrapper image-stack__item image-stack__item--top">
+                        <div class="box slide">
                             <img class="--img" src="<?php bloginfo('template_url'); ?>/assets/images/banner2.svg" />
                             <div class="bottom-right">
-
                                 <div class="eesify py-0">
                                     <div class="d-flex align-items-center py-0">
                                         <div style="background: #D9D9D9; height: 40px; width: 1px; margin-right: 10px;">
@@ -55,8 +54,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="image-stack__item image-stack__item--bottom">
-                        <div class="box">
+                    <div class="slidewrapper image-stack__item image-stack__item--bottom">
+                        <div class="box slide">
                             <img class="--img"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/screencapture-eesify-2023-06-27-12_22_25 1.png" />
                             <div class="bottom-right">

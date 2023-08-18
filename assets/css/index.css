@@ -316,8 +316,6 @@
      color: white;
  }
 
-
-
  .eesify a,
  .pace a {
      color: white;
@@ -356,7 +354,7 @@
      }
  }
 
- @media (max-width: 992px) {
+ @media (max-width: 992px) and (min-width: 768px) {
 
      .eesify,
      .pace {
@@ -1914,32 +1912,33 @@
      visibility: hidden;
  }
 
+ @media (min-width: 768px) {
+     @supports (display: grid) {
+         .image-stack {
+             display: grid;
+             position: relative;
+             margin-right: -5vw;
+             grid-template-columns: repeat(12, 1fr);
+         }
 
- @supports (display: grid) {
-     .image-stack {
-         display: grid;
-         position: relative;
-         margin-right: -5vw;
-         grid-template-columns: repeat(12, 1fr);
-     }
+         .image-stack__item--bottom {
+             grid-column: 5 / -1;
+             grid-row: 1;
+             width: 100%;
+         }
 
-     .image-stack__item--bottom {
-         grid-column: 5 / -1;
-         grid-row: 1;
-         width: 100%;
-     }
+         .image-stack__item--top {
+             grid-row: 1;
+             grid-column: 1 / span 9;
+             margin-top: 22%;
+             height: 76.4%;
+             width: 100%;
+         }
 
-     .image-stack__item--top {
-         grid-row: 1;
-         grid-column: 1 / span 9;
-         margin-top: 22%;
-         height: 76.4%;
-         width: 100%;
-     }
-
-     .pace {
-         grid-row: 1;
-         grid-column: 7 / span 8;
+         .pace {
+             grid-row: 1;
+             grid-column: 7 / span 8;
+         }
      }
  }
 
@@ -4250,5 +4249,117 @@
      .frame34686,
      .frame34687 {
          height: 550px;
+     }
+ }
+
+ @media (max-width: 768px) {
+     :root {
+         --column-size: min(100%, 500px);
+         --slider-size: min(80vw, 360px);
+         /* --slider-border-radius: 2em; */
+         --slider-fullbleed-gap: 10px;
+     }
+
+     .slider {
+         display: flex;
+         overflow-x: scroll;
+         scroll-snap-type: x mandatory;
+         width: var(--slider-size);
+         margin: 1em auto;
+         padding-left: 20px;
+         border-radius: var(--slider-border-radius);
+     }
+
+     /* Hide Scrollbar itself */
+     .slider {
+         -ms-overflow-style: none;
+         scrollbar-width: none;
+     }
+
+     .slider::-webkit-scrollbar {
+         display: none;
+     }
+
+     .slidewrapper {
+         scroll-snap-align: center;
+
+         /* Size me */
+         flex: 0 0 var(--slider-size);
+         /* width: var(--slider-size); */
+
+         /* This is needed for the paddings (in the full-bleed variant) to work …*/
+         box-sizing: content-box;
+
+         /* To allow the child .slide to stretch out inside me */
+         display: flex;
+     }
+
+     .slide {
+         background: rgb(0 0 0 / 0.1);
+
+         /* Stretch me out in my .slidewrapper parent */
+         flex: 1;
+         width: 80vw !important;
+
+         /* Give me some height */
+         min-height: 200px;
+         /* aspect-ratio: 16/9; */
+         border-radius: 12px !important;
+
+         /* Center text */
+         display: grid;
+         place-content: center;
+     }
+
+     .slide .--img {
+         width: 80vw !important;
+         object-fit: cover;
+     }
+
+     .full-bleed {
+         width: 100vw;
+         margin-left: 50%;
+         transform: translateX(-50%);
+     }
+
+     /* Put border-radius on the individual slides, not the slider-container */
+     .slider.full-bleed {
+         border-radius: 0;
+     }
+
+     .slider.full-bleed .slide {
+         border-radius: var(--slider-border-radius);
+     }
+
+     /* Add a faux gap between the slidewrappers */
+     .slider.full-bleed .slidewrapper {
+         margin-right: var(--slider-fullbleed-gap);
+     }
+
+     /* Offset first slidewrapper from the left so that it apppears centered on load */
+     .slider.full-bleed .slidewrapper:first-child {
+         padding-left: calc(30vw - (var(--slider-size) / 2));
+     }
+
+     /* Offset last slidewrapper so that it apppears centered when at the last item */
+     /* Note that margin-right won't work …*/
+     .slider.full-bleed .slidewrapper:last-child {
+         margin-right: 0;
+         padding-right: calc(30vw - (var(--slider-size) / 2));
+     }
+
+     .eesify {
+         left: 20px !important;
+         bottom: 20px;
+         position: absolute;
+         color: white;
+     }
+
+     .pace {
+         left: 90vw;
+         bottom: 20px;
+         position: absolute;
+         color: white;
+         width: 200px;
      }
  }
