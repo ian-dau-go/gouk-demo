@@ -4266,7 +4266,7 @@
          scroll-snap-type: x mandatory;
          width: var(--slider-size);
          margin: 1em auto;
-         padding-left: 20px;
+         padding-left: 1.5rem;
          border-radius: var(--slider-border-radius);
      }
 
@@ -4344,7 +4344,7 @@
      /* Offset last slidewrapper so that it apppears centered when at the last item */
      /* Note that margin-right won't work …*/
      .slider.full-bleed .slidewrapper:last-child {
-         margin-right: 0;
+         margin-right: 1.5rem !important;
          padding-right: calc(30vw - (var(--slider-size) / 2));
      }
 
