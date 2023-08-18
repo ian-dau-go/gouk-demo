@@ -3658,9 +3658,9 @@
      }
  }
 
- @media (max-width: 1350px) {
+ @media (max-width: 1200px) {
      .image-stack__item--top {
-         grid-column: 1 / span 11;
+         grid-column: 1 / span 9;
      }
 
      .banner-container {
@@ -3709,7 +3709,7 @@
      }
 
      .frame34719 {
-         position: relative;
+         position: relative !important;
      }
 
      .align-items {
@@ -4207,8 +4207,8 @@
      }
 
      .__px-100px {
-         padding-left: 10px !important;
-         padding-right: 10px !important;
+         padding-left: 1.5rem !important;
+         padding-right: 1.5rem !important;
      }
  }
 
@@ -4272,7 +4272,7 @@
          scroll-snap-type: x mandatory;
          width: var(--slider-size);
          margin: 1em auto;
-         padding-left: 20px;
+         padding-left: 1.5rem;
          border-radius: var(--slider-border-radius);
      }
 
@@ -4350,7 +4350,7 @@
      /* Offset last slidewrapper so that it apppears centered when at the last item */
      /* Note that margin-right won't work …*/
      .slider.full-bleed .slidewrapper:last-child {
-         margin-right: 0;
+         margin-right: 1.5rem !important;
          padding-right: calc(30vw - (var(--slider-size) / 2));
      }
 
