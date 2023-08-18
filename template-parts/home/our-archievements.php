@@ -67,47 +67,47 @@
                 <div class="owl-carousel archievements owl-theme">
                     <div class="frame9387 d-flex justify-content-center item w-100">
                         <div class="frame8984">
-                            <img class="Rectangle28" style="width: 236px; height: 215px"
+                            <img class="Rectangle28" style="max-width: 236px; width:100%"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/Group.svg" />
                         </div>
                         <div class="frame8984">
-                            <img class="Rectangle26" style="width: 237px; height: 279px"
+                            <img class="Rectangle26" style="max-width: 237px; width:100%"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/Rectangle 26.png" />
                         </div>
                         <div class="frame8984">
-                            <img class="Rectangle28" style="width: 207px; height: 242px"
+                            <img class="Rectangle28" style="max-width: 207px; width:100%"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/badge-stars-blue-light-xl 1.svg" />
                         </div>
                         <div class="frame8984">
-                            <img class="Rectangle28" style="width: 207px; height: 242px"
+                            <img class="Rectangle28" style="max-width: 207px; width: 100%"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/Rectangle 28.png" />
                         </div>
                     </div>
                     <div class="frame9387 d-flex justify-content-center item" style="padding: 0 20%">
                         <div class="frame34735">
-                            <img class="Rectangle30" style="width: 181px; height: 220px"
+                            <img class="Rectangle30" style="max-width: 181px; width:100%"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/Rectangle 30.png" />
                         </div>
                         <div class="frame34734">
-                            <img class="Rectangle31" style="width: 181px; height: 220px"
+                            <img class="Rectangle31" style="max-max-width: 181px; width:100%"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/Rectangle 31.png" />
                         </div>
                         <div class="frame34733">
-                            <img class="Rectangle29" style="width: 181px; height: 220px"
+                            <img class="Rectangle29" style="max-width: 181px; width:100%"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/Rectangle 29.png" />
                         </div>
                     </div>
                     <div class="frame9387 justify-content-center item">
                         <div class="frame34736">
-                            <img class="BannerServiceWhite1" style="width: 310px; height: 244px"
+                            <img class="BannerServiceWhite1" style="max-width: 310px; width:100%"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/banner-service-white.png" />
                         </div>
                         <div class="frame34737">
-                            <img class="BannerServiceWhite11" style="width: 310px; height: 244px"
+                            <img class="BannerServiceWhite11" style="max-width: 310px; width:100%"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/banner-service-white1.png" />
                         </div>
                         <div class="frame34738">
-                            <img class="BannerServiceWhite21" style="width: 310px; height: 244px"
+                            <img class="BannerServiceWhite21" style="max-width: 310px; width:100%"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/banner-service-white2.png" />
                         </div>
                     </div>

@@ -63,6 +63,7 @@
         nav: false,
         dots: true,
         items: 1,
+        margin: 100,
         autoplayTimeout: 5000,
         autoplayHoverPause: true,
       });
