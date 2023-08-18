@@ -23,7 +23,6 @@
       }
 
       const owlPost = $("#our-team");
-      console.log(bodyWidth);
       if (bodyWidth < 992) {
         owlPost.addClass("owl-carousel");
         owlPost.owlCarousel({

@@ -1,3 +1,10 @@
+ @font-face {
+     font-family: 'Mallory';
+     src: url('..\\Fonts\\Mallory\\Mallory Book.ttf');
+     font-style: normal;
+     font-weight: 400;
+ }
+
  body {
      font-family: Montserrat !important;
  }
@@ -4236,6 +4243,7 @@
 
 
  @media (max-width: 700px) {
+
      .frame34686,
      .frame34687 {
          height: 500px;
@@ -4243,6 +4251,7 @@
  }
 
  @media (max-width: 500px) {
+
      .frame34686,
      .frame34687 {
          height: 550px;

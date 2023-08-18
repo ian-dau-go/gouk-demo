@@ -38,7 +38,7 @@
                                         <div style="background: #D9D9D9; height: 40px; width: 1px; margin-right: 10px;">
                                         </div>
                                         <div>
-                                            <span class="py-0">Pace.</span>
+                                            <span class="py-0">pace.</span>
                                             <br />
                                             <a class="text-decoration-none text-white"
                                                 href="https://goldenowl.asia/portfolio/pace">
