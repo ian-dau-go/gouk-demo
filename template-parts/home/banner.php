@@ -35,7 +35,9 @@
                             <div class="bottom-right">
                                 <div class="eesify py-0">
                                     <div class="d-flex align-items-center py-0">
-                                        <div style="background: #D9D9D9; height: 40px; width: 1px; margin-right: 10px;">
+                                        <div 
+                                            class="--boder-left"
+                                            style="background: #D9D9D9; height: 40px; width: 1px; margin-right: 10px;">
                                         </div>
                                         <div>
                                             <span class="py-0">pace.</span>
@@ -62,6 +64,7 @@
                                 <div class="pace py-0">
                                     <div class="d-flex align-items-center">
                                         <div
+                                            class="--boder-left"
                                             style="background: #D9D9D9; height: 35px; width: 1px; margin-right: 10px; margin-top: 5px;">
                                         </div>
                                         <div class="py-0">
