@@ -20,7 +20,7 @@
                         <a class="ExploreOurServices text-decoration-none" href="/service.html">
                             Explore our services
                             <img style="width: 12.51px; height: 8px;"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/Left 2 (1).png" alt>
+                                src="<?php bloginfo('template_url'); ?>/assets/images/fi-rs-arrow-right.svg" alt>
                         </a>
                     </div>
                 </div>
