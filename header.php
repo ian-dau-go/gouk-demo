@@ -14,7 +14,7 @@
         } ?>
     </title>
 
-    <link rel="icon" href="<?php bloginfo('template_url'); ?>/assets/images/icon/favicon.png" />
+    <link rel="icon" href="<?php bloginfo('template_url'); ?>/assets/images/icons/favicon.png" />
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/index.css" type="text/css"
         media="screen" />
     <link rel="stylesheet"
