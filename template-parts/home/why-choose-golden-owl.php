@@ -16,7 +16,7 @@
                     <div class="Performance21">
                         <div class="Vector">
                         </div>
-                        <img src="<?php bloginfo('template_url'); ?>/assets/images/performance-2 1.svg" alt>
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/performance_45x44.svg" alt>
                     </div>
                     <div class="frame9371">
                         <div class="Scalability">
@@ -33,7 +33,7 @@
                 <div class="Rectangle4399 w-100"></div>
                 <div class="frame34726 w-100">
                     <div class="Layer1">
-                        <img src="<?php bloginfo('template_url'); ?>/assets/images/Layer_1.svg" alt>
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/layer_45x44.svg" alt>
                     </div>
                     <div class="frame34722">
                         <div class="Scalability">
@@ -49,7 +49,7 @@
                 <div class="Rectangle4400 w-100"></div>
                 <div class="frame34725 w-100">
                     <div class="Scale1">
-                        <img src="<?php bloginfo('template_url'); ?>/assets/images/scale 1.svg" alt>
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/scale_45x44.svg" alt>
                     </div>
                     <div class="frame34723">
                         <div class="Scalability">
@@ -69,7 +69,7 @@
                 <div class="Rectangle4401 w-100"></div>
                 <div class="frame34728 w-100">
                     <div class="Secure1">
-                        <img src="<?php bloginfo('template_url'); ?>/assets/images/secure 1.svg" alt srcset>
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/secure_45x44.svg" alt>
                     </div>
                     <div class="frame34724">
                         <div class="Scalability">

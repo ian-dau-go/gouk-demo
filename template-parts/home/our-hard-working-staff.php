@@ -6,93 +6,93 @@
                     <div class="pl-0 w-50">
                         <div class="frame34799  frame34787__images--gird" style>
                             <img class="Img49092 w-100" style="height: 260px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4909 2.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_7_346x260.png" />
                             <img class="1709511 w-100" style="height: 162px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/20230301_170951 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_10_346x162.png" />
                             <img class="Img49941 w-100" style="height: 438px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4994 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_5_346x438.png" />
                             <img class="1625451 w-100" style="height: 305px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/20230301_162545 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_8_346x305.png" />
                             <img class="Img50331 w-100" style="height: 233px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5033 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_3_346x233.png" />
                             <img class="Img49092 w-100" style="height: 260px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4909 2.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_7_346x260.png" />
                             <img class="1709511 w-100" style="height: 162px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/20230301_170951 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_10_346x162.png" />
                             <img class="Img49941 w-100" style="height: 438px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4994 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_5_346x438.png" />
                             <img class="1625451 w-100" style="height: 305px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/20230301_162545 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_8_346x305.png" />
                             <img class="Img50331 w-100" style="height: 233px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5033 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_3_346x233.png" />
                         </div>
                         <div class="frame34799  frame34787__images--gird" style>
                             <img class="Img49092 w-100" style="height: 260px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4909 2.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_7_346x260.png" />
                             <img class="1709511 w-100" style="height: 162px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/20230301_170951 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_10_346x162.png" />
                             <img class="Img49941 w-100" style="height: 438px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4994 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_5_346x438.png" />
                             <img class="1625451 w-100" style="height: 305px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/20230301_162545 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_8_346x305.png" />
                             <img class="Img50331 w-100" style="height: 233px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5033 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_3_346x233.png" />
                             <img class="Img49092 w-100" style="height: 260px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4909 2.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_7_346x260.png" />
                             <img class="1709511 w-100" style="height: 162px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/20230301_170951 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_10_346x162.png" />
                             <img class="Img49941 w-100" style="height: 438px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4994 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_5_346x438.png" />
                             <img class="1625451 w-100" style="height: 305px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/20230301_162545 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_8_346x305.png" />
                             <img class="Img50331 w-100" style="height: 233px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5033 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_3_346x233.png" />
                         </div>
                     </div>
                     <div class="pr-0 w-50">
                         <div class="frame34798 frame34787__images--gird" style>
                             <img class="Img50831 w-100" style="height: 250px; top: 0px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5083 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_2_333x250.png" />
                             <img class="1622501 w-100" style="height: 245px; top: 266px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/20230301_162250 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_9_254x245.png" />
                             <img class="Img50231 w-100" style="height: 442px; top: 527px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5023 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_4_333x442.png" />
                             <img class="Img49121 w-100" style="height: 266px; top: 985px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4912 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_1_346x280.png" />
                             <img class="Img49651 w-100" style="height: 265px; top: 1267px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4965 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_6_354x265.png" />
                             <img class="Img50831 w-100" style="height: 250px; top: 0px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5083 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_2_333x250.png" />
                             <img class="1622501 w-100" style="height: 245px; top: 266px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/20230301_162250 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_9_254x245.png" />
                             <img class="Img50231 w-100" style="height: 442px; top: 527px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5023 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_4_333x442.png" />
                             <img class="Img49121 w-100" style="height: 266px; top: 985px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4912 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_1_346x280.png" />
                             <img class="Img49651 w-100" style="height: 265px; top: 1267px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4965 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_6_354x265.png" />
                         </div>
                         <div class="frame34798 frame34787__images--gird" style>
                             <img class="Img50831 w-100" style="height: 250px; top: 0px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5083 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_2_333x250.png" />
                             <img class="1622501 w-100" style="height: 245px; top: 266px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/20230301_162250 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_9_254x245.png" />
                             <img class="Img50231 w-100" style="height: 442px; top: 527px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5023 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_4_333x442.png" />
                             <img class="Img49121 w-100" style="height: 266px; top: 985px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4912 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_1_346x280.png" />
                             <img class="Img49651 w-100" style="height: 265px; top: 1267px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4965 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_6_354x265.png" />
                             <img class="Img50831 w-100" style="height: 250px; top: 0px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5083 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_2_333x250.png" />
                             <img class="1622501 w-100" style="height: 245px; top: 266px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/20230301_162250 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_9_254x245.png" />
                             <img class="Img50231 w-100" style="height: 442px; top: 527px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_5023 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_4_333x442.png" />
                             <img class="Img49121 w-100" style="height: 266px; top: 985px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4912 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_1_346x280.png" />
                             <img class="Img49651 w-100" style="height: 265px; top: 1267px; border-radius: 10px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/IMG_4965 1.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/staffs/staffs_6_354x265.png" />
                         </div>
                     </div>
                 </div>

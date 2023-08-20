@@ -17,7 +17,8 @@
                     growth and success.</div>
             </div>
             <div class="py-5">
-                <img class="GoMobileDevelope1" src="<?php bloginfo('template_url'); ?>/assets/images/Frame34731.svg" />
+                <img class="GoMobileDevelope1"
+                    src="<?php bloginfo('template_url'); ?>/assets/images/home/partners/partners_1010x631.svg" />
             </div>
         </div>
     </div>

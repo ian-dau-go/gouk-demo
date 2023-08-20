@@ -20,7 +20,7 @@
                         <a class="ExploreOurServices text-decoration-none" href="/service.html">
                             Explore our services
                             <img style="width: 12.51px; height: 8px;"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/fi-rs-arrow-right.svg" alt>
+                                src="<?php bloginfo('template_url'); ?>/assets/images/icons/fi-rs-arrow-right.svg" alt>
                         </a>
                     </div>
                 </div>
@@ -30,7 +30,7 @@
                     <div class="col-12 col-sm-6 col-md-6 col-xl-3 col-lg-3">
                         <a class="frame9712" href="https://goldenowl.asia/services/ai">
                             <div class="icon">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/artificial-intelligence 1 (1).svg"
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/artificial_intelligence_26x26.svg"
                                     alt srcset>
                             </div>
                             <div class="frame9470">
@@ -45,7 +45,8 @@
                     <div class="col-12 col-sm-6 col-md-6 col-xl-3 col-lg-3">
                         <a class="frame9713" href="https://goldenowl.asia/services/web-development\">
                             <div class="icon">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/globe 1.svg" alt srcset>
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/home/services/globe_26x26.svg"
+                                    alt srcset>
                             </div>
                             <div class="frame9470">
                                 <div class="service__title">
@@ -59,7 +60,8 @@
                     <div class="col-12 col-sm-6 col-md-6 col-xl-3 col-lg-3">
                         <a class="frame9714" href="https://goldenowl.asia/services/ux-ui-services">
                             <div class="icon">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/Layer_1 (1).svg" alt srcset>
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/home/services/layer_31x26.svg"
+                                    alt srcset>
                             </div>
                             <div class="frame9470">
                                 <div class="service__title">
@@ -73,7 +75,8 @@
                     <div class="col-12 col-sm-6 col-md-6 col-xl-3 col-lg-3">
                         <a class="frame9715" href="https://goldenowl.asia/services/it-solutions-consulting">
                             <div class="icon">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/interview 1.svg" alt>
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/home/services/interview_26x26.svg"
+                                    alt>
                             </div>
                             <div class="frame9470">
                                 <div class="service__title">
@@ -86,7 +89,8 @@
                     <div class="col-12 col-sm-6 col-md-6 col-xl-3 col-lg-3">
                         <a class="frame9719" href="https://goldenowl.asia/services/development-team">
                             <div class="icon">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/group-chat 1.svg" alt srcset>
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/home/services/group_chat_26x26.svg"
+                                    alt srcset>
                             </div>
                             <div class="frame9470"
                                 style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
@@ -101,8 +105,8 @@
                     <div class="col-12 col-sm-6 col-md-6 col-xl-3 col-lg-3">
                         <a class="frame9718" href="https://goldenowl.asia/services/development-team">
                             <div class="icon">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/mobile-phone 1.svg" alt
-                                    srcset>
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/home/services/mobile_phone_26x26.svg"
+                                    alt srcset>
                             </div>
                             <div class="frame9470"
                                 style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
@@ -116,8 +120,8 @@
                     <div class="col-12 col-sm-6 col-md-6 col-xl-3 col-lg-3">
                         <a class="frame9716" href="https://goldenowl.asia/services/project-management">
                             <div class="icon">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/project-management 1.svg" alt
-                                    srcset>
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/home/services/project_management_26x26.svg"
+                                    alt srcset>
                             </div>
                             <div class="frame9470"
                                 style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
@@ -131,7 +135,8 @@
                     <div class="col-12 col-sm-6 col-md-6 col-xl-3 col-lg-3">
                         <a class="frame9717" href="https://goldenowl.asia/services/automation-testing">
                             <div class="icon">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/automation 1.svg" alt srcset>
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/home/services/automation_26x26.svg"
+                                    alt srcset>
                             </div>
                             <div class="frame9470"
                                 style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">

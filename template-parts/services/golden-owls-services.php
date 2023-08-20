@@ -32,7 +32,7 @@
                                     Contact
                                     us</div>
                                 <div class="FiRrAngleSmallRight" style="width: 22px; height: 22px; position: relative">
-                                    <img src="<?php bloginfo('template_url'); ?>/assets/images/fi-rr-angle-small-right.svg"
+                                    <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/fi-rr-angle-small-right.svg"
                                         alt>
                                 </div>
                             </div>
@@ -43,10 +43,12 @@
                     <div class="banner-container __pt-banner">
                         <div class="image-stack">
                             <div class="image-stack__item image-stack__item--top">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/Frame34914.svg" alt="">
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/banner_glife_634x435.svg"
+                                    alt="">
                             </div>
                             <div class="image-stack__item image-stack__item--bottom __service">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/Frame34913.svg" alt="">
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/banner_omni_504x348.svg"
+                                    alt="">
                             </div>
                         </div>
                     </div>

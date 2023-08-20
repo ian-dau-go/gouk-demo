@@ -32,7 +32,8 @@
                                 </div>
                                 <div class="Group"
                                     style="width: 70.61px; height: 60px; left: 0px; top: 0px; position: absolute">
-                                    <img src="<?php bloginfo('template_url'); ?>/assets/images/Frame 34968.svg" alt="">
+                                    <img src="<?php bloginfo('template_url'); ?>/assets/images/service/web_developmet_73x60.svg"
+                                        alt="">
                                 </div>
                             </div>
                             <div class="Frame34959"
@@ -58,7 +59,7 @@
                             href="https://goldenowl.asia/services/mobile-development"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
                             <div class="MobileDevelopment1" style="width: 60px; height: 60px; position: relative">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/mobile-development 1 (1).svg"
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/mobile_development_61x60.svg"
                                     alt="">
                             </div>
                             <div class="Frame34959"
@@ -84,7 +85,8 @@
                             href="https://goldenowl.asia/services/ux-ui-services"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
                             <div class="WebDesign31" style="width: 60px; height: 60px; position: relative">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/web-design-3 1.svg" alt="">
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/web_design_61x60.svg"
+                                    alt="">
                             </div>
                             <div class="Frame34959"
                                 style="align-self: stretch; height: 126px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
@@ -109,7 +111,7 @@
                             href="https://goldenowl.asia/services/project-management"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
                             <div class="ProjectManagement1" style="width: 60px; height: 60px; position: relative">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/project-management 1 (1).svg"
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/project_management_60x60.svg"
                                     alt="">
                             </div>
                             <div class="Frame34959"
@@ -137,7 +139,8 @@
                                 <div class="Ellipse198"
                                     style="width: 26.25px; height: 27px; left: 16.50px; top: 16.50px; position: absolute; border-radius: 9999px">
                                 </div>
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/user-4 1.svg" alt="">
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/development_team_61x60.svg"
+                                    alt="">
                             </div>
                             <div class="Frame34959"
                                 style="align-self: stretch; height: 96px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
@@ -161,7 +164,8 @@
                             href="https://goldenowl.asia/services/it-solutions-consulting"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
                             <div class="Interview1" style="width: 60px; height: 60px; position: relative">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/interview 1 (1).svg" alt="">
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/it_solutions_consulting_61x60.svg"
+                                    alt="">
                             </div>
                             <div class="Frame34959"
                                 style="align-self: stretch; height: 144px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
@@ -188,8 +192,8 @@
                             href="https://goldenowl.asia/services/digital-transformation"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
                             <div class="Transformation1" style="width: 60px; height: 60px; position: relative">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/transformation 1.svg" alt=""
-                                    srcset="">
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/digital_transformation_60x60.svg"
+                                    alt="" srcset="">
                             </div>
                             <div class="Frame34959"
                                 style=" flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
@@ -213,7 +217,8 @@
                             href="https://goldenowl.asia/services/automation-testing"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
                             <div class="Automation1" style="width: 60px; height: 60px; position: relative">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/automation 1 (1).svg" alt="">
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/automation_testing_61x60.svg"
+                                    alt="">
                             </div>
                             <div class="Frame34959"
                                 style="align-self: stretch; height: 150px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
@@ -240,8 +245,8 @@
                             href="https://goldenowl.asia/services/microservices"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
                             <div class="Microservice2" style="width: 60px; height: 60px; position: relative">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/microservice 2.svg" alt=""
-                                    srcset="">
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/microservice_61x60.svg"
+                                    alt="" srcset="">
                             </div>
                             <div class="Frame34959"
                                 style="flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
@@ -269,7 +274,8 @@
                                 </div>
                                 <div class="ProcessorSecurity"
                                     style="width: 60px; height: 60px; left: 0px; top: 0px; position: absolute">
-                                    <img src="<?php bloginfo('template_url'); ?>/assets/images/Frame 34964.svg" alt="">
+                                    <img src="<?php bloginfo('template_url'); ?>/assets/images/service/cyber_sercurity_60x60.svg"
+                                        alt="">
                                 </div>
                             </div>
                             <div class="Frame34959"
@@ -291,7 +297,8 @@
                             href="https://goldenowl.asia/services/data-analytics"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
                             <div class="Data1" style="width: 60px; height: 60px; position: relative">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/data 1 (1).svg" alt="">
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/data_analytics_61x60.svg"
+                                    alt="">
                             </div>
                             <div class="Frame34959"
                                 style="align-self: stretch; height: 78px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
@@ -312,7 +319,8 @@
                         <a class="Frame34870 w-100 text-decoration-none" href="https://goldenowl.asia/services/odoo-erp"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
                             <div class="Odoo" style="width: 60px; height: 60px; position: relative">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/odoo.svg" alt="">
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/odoo_erp_61x60.svg"
+                                    alt="">
                             </div>
                             <div class="Frame34959"
                                 style="align-self: stretch; height: 78px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
@@ -333,7 +341,8 @@
                             href="https://goldenowl.asia/services/build-operate-transfer"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
                             <div class="Settings2" style="width: 60px; height: 60px; position: relative">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/settings 2.svg" alt="">
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/build_overate_transfer_60x60.svg"
+                                    alt="">
                             </div>
                             <div class="Frame34959"
                                 style="align-self: stretch; height: 78px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
@@ -354,7 +363,7 @@
                         <a class="Frame34869 w-100 text-decoration-none" href="https://goldenowl.asia/services/ai"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
                             <div class="ArtificialIntelligence1" style="width: 60px; height: 60px; position: relative">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/artificial-intelligence 1 (2).svg"
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/artificial_intelligence_61x60.svg"
                                     alt="">
                             </div>
                             <div class="Frame34959"
@@ -375,7 +384,8 @@
                         <a class="Frame34870 w-100 text-decoration-none" href="#"
                             style="flex: 1 1 0;  background: white; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 35px; display: inline-flex">
                             <div class="More1" style="width: 60px; height: 60px; position: relative">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/more 1.svg" alt="">
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/more_61x60.svg"
+                                    alt="">
                             </div>
                             <div class="Frame34959"
                                 style="align-self: stretch; height: 54px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">

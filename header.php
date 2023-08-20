@@ -14,7 +14,7 @@
         } ?>
     </title>
 
-    <link rel="icon" href="<?php bloginfo('template_url'); ?>/assets/images/go.png" />
+    <link rel="icon" href="<?php bloginfo('template_url'); ?>/assets/images/icon/favicon.png" />
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/index.css" type="text/css"
         media="screen" />
     <link rel="stylesheet"
@@ -50,7 +50,7 @@
                             <div class="Frame9545 pl-0 col-3 col-md-3 col-lg-3">
                                 <a href="https://goldenowl.uk/">
                                     <div class="logo">
-                                        <img src="<?php echo get_template_directory_uri() . '/assets/images/gouklogo.svg' ?>"
+                                        <img src="<?php echo get_template_directory_uri() . '/assets/images/gouklogo_160x36.svg' ?>"
                                             alt />
                                     </div>
                                 </a>
@@ -83,7 +83,7 @@
                                                                     ">Service</a>
                                                 <div class="Frame9456">
                                                     <img width="12px" height="14px"
-                                                        src="<?php bloginfo('template_url'); ?>/assets/images/frame9456.svg"
+                                                        src="<?php bloginfo('template_url'); ?>/assets/images/icons/open_dropdown_13x14.svg"
                                                         alt srcset />
                                                 </div>
                                             </div>

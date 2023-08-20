@@ -26,7 +26,7 @@
             <div class="col-lg-7 py-3 timeline">
                 <div class="position-relative">
                     <main class="frame34786"
-                        style="cursor: url('<?php bloginfo('template_url'); ?>/assets/images//Frame34977.svg'), auto;"">
+                        style="cursor: url('<?php bloginfo('template_url'); ?>/assets/images/home/timeline//cursor_50x50.svg'), auto;"">
                         <div class=" frame34740">
                         <div class="text-center"><span
                                 style="color: black; font-size: 32px; font-family: Montserrat; font-weight: 700; line-height: 48px; word-wrap: break-word">2014-2018<br /></span><span
@@ -268,9 +268,9 @@
                 <div class="frame34916 d-inline-flex flex-column">
                     <div class="d-inline-flex align-items-end" style="gap: 10px;">
                         <img class="screenshot20230307At101451Am3"
-                            src="<?php bloginfo('template_url'); ?>/assets/images/timeline1821_image2_SecondOffice.svg" />
+                            src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/timeline1821_image2_second_office_147x93.svg" />
                         <img class="Screenshot20230307At101451Am4"
-                            src="<?php bloginfo('template_url'); ?>/assets/images/timeline1821_image1_SecondOffice.svg" />
+                            src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/timeline1821_image1_second_office_126x80.svg" />
                     </div>
                     <div class="SecondOffice font-weight-bold">
                         Second
@@ -282,25 +282,26 @@
                         growth and expansion</div>
                 </div>
                 <div class="Pin1">
-                    <img src="<?php bloginfo('template_url'); ?>/assets/images/pin 1.svg" alt>
+                    <img src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/pin_26x26.svg" alt>
                 </div>
                 <div class="Pin2">
-                    <img src="<?php bloginfo('template_url'); ?>/assets/images/pin 1.svg" alt>
+                    <img src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/pin_26x26.svg" alt>
                 </div>
                 <div class="Pin3">
-                    <img src="<?php bloginfo('template_url'); ?>/assets/images/pin 1.svg" alt>
+                    <img src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/pin_26x26.svg" alt>
                 </div>
                 <div class="Group1">
-                    <img src="<?php bloginfo('template_url'); ?>/assets/images/group 1.svg" alt>
+                    <img src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/group_26x26.svg" alt>
                 </div>
                 <div class="Group2">
-                    <img src="<?php bloginfo('template_url'); ?>/assets/images/group 1.svg" alt>
+                    <img src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/group_26x26.svg" alt>
                 </div>
                 <div class="frame34748">
                     <div class="frame34747">
                         <div class="Ellipse157">
                         </div>
-                        <img class="Ellipse157" src="<?php bloginfo('template_url'); ?>/assets/images/JN1.svg" />
+                        <img class="Ellipse157"
+                            src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/justin_96x96.svg" />
                     </div>
                     <div class="frame34685 align-items-start">
                         <div class="OurFounder">
@@ -342,7 +343,7 @@
                 </div>
                 <div class="frame34752">
                     <img class="Screenshot20230307At101451Am1" style="width: 237px; height: 150px"
-                        src="<?php bloginfo('template_url'); ?>/assets/images/timeline1418_image1_ourteam.svg" />
+                        src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/timeline1418_image1_ourteam_237x150.svg" />
                     <div class="frame34744"
                         style="height: 122px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
                         <div class="OurTeam"
@@ -371,7 +372,7 @@
                             </div>
                             <div class="ArtificialIntelligence1"
                                 style="width: 41px; height: 41px; left: 13px; top: 13px; position: absolute">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/artificial-intelligence 1.svg"
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/artificial_intelligence_41x41.svg"
                                     alt>
                             </div>
                         </div>
@@ -381,7 +382,8 @@
                             </div>
                             <div class="Data1"
                                 style="width: 26px; height: 26px; left: 10px; top: 10px; position: absolute">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/data 1.svg" alt>
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/data_26x26.svg"
+                                    alt>
                             </div>
                         </div>
                         <div class="frame34760"
@@ -391,7 +393,8 @@
                             </div>
                             <div class="Settings1"
                                 style="width: 30px; height: 30px; left: 10px; top: 10px; position: absolute">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/settings 1.svg" alt>
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/settings_30x30.svg"
+                                    alt>
                             </div>
                         </div>
                         <div class="frame34757"
@@ -401,7 +404,8 @@
                             </div>
                             <div class="Development1"
                                 style="width: 30px; height: 30px; left: 9px; top: 9px; position: absolute">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/development 1.svg" alt>
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/development_30x30.svg"
+                                    alt>
                             </div>
                         </div>
                         <div class="frame347529"
@@ -411,7 +415,7 @@
                             </div>
                             <div class="MobileDevelopment1"
                                 style="width: 18px; height: 18px; left: 8px; top: 8px; position: absolute">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/mobile-development 1.svg"
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/mobile_development_18x18.svg"
                                     alt>
                             </div>
                         </div>
@@ -419,7 +423,8 @@
                             style="width: 42px; height: 42px; left: 0px; top: 72px; position: absolute">
                             <div class="UserExperience1"
                                 style="width: 26px; height: 26px; left: 8px; top: 8px; position: absolute">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/frame34756.png" alt>
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/ux_26x26.png"
+                                    alt>
                             </div>
                         </div>
                     </div>
@@ -449,7 +454,7 @@
                                 </div>
                                 <img class="Image155"
                                     style="width: 265.96px; height: 126.72px; left: -5.30px; top: 11.08px; position: absolute"
-                                    src="<?php bloginfo('template_url'); ?>/assets/images/timeline2223_image4_frame34787.svg" />
+                                    src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/timeline2223_eesify_256x159.svg" />
                             </div>
                         </div>
                         <a class="frame34763 text-decoration-none link-portfolio"
@@ -459,10 +464,8 @@
                                 style="color: #909090; font-size: 14px; font-family: Montserrat; font-weight: 500; line-height: 21px; word-wrap: break-word">
                                 See
                                 portfolio</div>
-                            <img src="<?php bloginfo('template_url'); ?>/assets/images/Left 2.png" alt="">
-                            <!-- <div class="Vector"
-                                                    style="width: 12.51px; height: 8px; transform: rotate(180deg); transform-origin: 0 0; background: #909090">
-                                                </div> -->
+                            <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/left_13x9.svg" alt="">
+
                         </a>
                     </div>
                     <div class="MoreOfficesInTheUkAndSingaporeMarkAnAchievementInOurJourneyToDeliverExceptionalSolutionsOnAGlobalScale"
@@ -483,9 +486,9 @@
                         <div class="frame34764"
                             style="justify-content: flex-start; align-items: flex-end; gap: 8px; display: inline-flex">
                             <img class="Image156" style="width: 192px; height: 122px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/image156.svg" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/timeline_client2_192x122.svg" />
                             <img class="Image154" style="width: 126px; height: 146px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/image154.svg" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/timeline_client1_126x146.svg" />
                         </div>
                         <a class="frame34763 text-decoration-none link-portfolio"
                             href="https://goldenowl.asia/portfolio"
@@ -494,7 +497,7 @@
                                 style="color: #909090; font-size: 14px; font-family: Montserrat; font-weight: 500; line-height: 21px; word-wrap: break-word">
                                 See
                                 portfolio</div>
-                            <img src="<?php bloginfo('template_url'); ?>/assets/images/Left 2.png" alt="">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/left_13x9.svg" alt="">
                             <!-- <div class="Vector"
                                                     style="width: 12.51px; height: 8px; transform: rotate(180deg); transform-origin: 0 0; background: #909090">
                                                 </div> -->
@@ -520,15 +523,15 @@
                     </div>
                 </div>
                 <div class="Diagram1" style="width: 26px; height: 26px; left: 1704px; top: 227px; position: absolute">
-                    <img src="<?php bloginfo('template_url'); ?>/assets/images/diagram 1.svg" alt>
+                    <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/diagram_26x26.svg" alt>
                 </div>
                 <div class="Gear1" style="width: 26px; height: 26px; left: 1896px; top: 639px; position: absolute">
-                    <img src="<?php bloginfo('template_url'); ?>/assets/images/gear 1.svg" alt>
+                    <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/gear_26x26.svg" alt>
                 </div>
                 <div class="MapF1fb02eb1"
                     style="width: 486px; height: 240px; left: 3335px; top: 406px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
                     <div class="Group356" style="width: 486px; height: 240.01px; position: relative; opacity: 0.90">
-                        <img src="<?php bloginfo('template_url'); ?>/assets/images/timeline2223_image5_group356.svg"
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/timeline2223_map_486x240.svg"
                             alt>
                     </div>
                 </div>
@@ -537,13 +540,13 @@
                         <div class="frame34779"
                             style="justify-content: flex-start; align-items: flex-end; gap: 8px; display: inline-flex">
                             <img class="31606861774831014459805726115425090N1" style="width: 183px; height: 122px"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/293448720_3160686177483101_4459805726115425090_n.svg" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/timeline2122_team_building_183x122.svg" />
                             <div class="MaskGroup" style="width: 109.48px; height: 101px; position: relative">
                                 <div class="Rectangle59"
                                     style="width: 109.48px; height: 101px; left: 0px; top: 0px; position: absolute; background: #D9D9D9">
                                 </div>
                                 <img class="Img49091"
-                                    src="<?php bloginfo('template_url'); ?>/assets/images/timeline2223_image49091.svg" />
+                                    src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/timeline2223_staffs_110x101.svg" />
                             </div>
                         </div>
                         <div class="OurCompanyTripIn2022"
@@ -576,11 +579,11 @@
                     <div class="frame34771"
                         style="justify-content: flex-start; align-items: flex-start; gap: 15px; display: inline-flex">
                         <img class="BannerServiceWhite11" style="width: 108px; height: 75px"
-                            src="<?php bloginfo('template_url'); ?>/assets/images/timeline2223_banner-service-white1.svg" />
+                            src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/timeline2223_banner_service_white1_108x75.svg" />
                         <img class="BannerServiceWhite21" style="width: 108px; height: 75px"
-                            src="<?php bloginfo('template_url'); ?>/assets/images/timeline2223_banner-service-white2.svg" />
+                            src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/timeline2223_banner_service_white2_108x75.svg" />
                         <img class="BannerServiceWhite1" style="width: 108px; height: 75px"
-                            src="<?php bloginfo('template_url'); ?>/assets/images/timeline2223_banner-service-white3.svg" />
+                            src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/timeline2223_banner_service_white3_108x75.svg" />
                     </div>
                     <div class="frame34744"
                         style="height: 122px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
@@ -627,20 +630,20 @@
                             style="color: #1D1F21; font-size: 14px; font-family: Montserrat; font-weight: 700; line-height: 21px; word-wrap: break-word">
                             See
                             portfolio</div>
-                        <img src="<?php bloginfo('template_url'); ?>/assets/images/Left 2.png" alt>
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/left_13x9.svg" alt>
                     </a>
                 </div>
                 <div class="timeline4--item1">
                     <div class="Rectangle58">
                     </div>
                     <img class="1"
-                        src="<?php bloginfo('template_url'); ?>/assets/images/timeline1418_image3_ourteam.svg" />
+                        src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/timeline1418_image3_ourteam_211x154.svg" />
                 </div>
                 <div class="timeline4--item2">
                     <div class="Rectangle57">
                     </div>
                     <img class="9128194332204842253491591670758106N1"
-                        src="<?php bloginfo('template_url'); ?>/assets/images/timeline1418_image2_ourteam.svg" />
+                        src="<?php bloginfo('template_url'); ?>/assets/images/home/timeline/timeline1418_image2_ourteam_131x172.svg" />
                 </div>
                 <div class="frame34922">
                     <div class="frame34921 d-flex flex-column align-items-center">

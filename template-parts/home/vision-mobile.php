@@ -43,7 +43,7 @@
                     </div>
                     <div class="frame34701 col-12 p-0 my-auto">
                         <img class="MacbookPro16 w-100 h-100" style="object-fit: cover;"
-                            src="<?php bloginfo('template_url'); ?>/assets/images/Frame34701.svg" />
+                            src="<?php bloginfo('template_url'); ?>/assets/images/home/vision/seasoned_software_expert_637x460.svg" />
                     </div>
                 </div>
             </div>
@@ -84,7 +84,7 @@
                 <div class="frame34662 col-12 p-0 my-auto" style="position: relative">
                     <div class="Iphone143 w-100">
                         <img style="object-fit: cover;" class="w-100 h-100"
-                            src="<?php bloginfo('template_url'); ?>/assets/images/frame34662.svg" />
+                            src="<?php bloginfo('template_url'); ?>/assets/images/home/vision/commitment_to_customer_satisfaction_640x503.svg" />
                     </div>
                 </div>
             </div>
@@ -123,7 +123,7 @@
                 </div>
                 <div class="frame34660 col-12 p-0 my-auto" style="position: relative">
                     <img class="Mockup21 w-100 h-100" style="object-fit: cover;"
-                        src="<?php bloginfo('template_url'); ?>/assets/images/frame34660.svg" />
+                        src="<?php bloginfo('template_url'); ?>/assets/images/home/vision/trusted_by_many_bussinesses_646x460.svg" />
                 </div>
             </div>
             <div class="frame34665 row mx-auto w-100 py-2">
@@ -160,7 +160,7 @@
                 </div>
                 <div class="frame34659 col-12 p-0 my-auto" style="position: relative">
                     <img class="Blue w-100 h-100"
-                        src="<?php bloginfo('template_url'); ?>/assets/images/Frame34659.svg" />
+                        src="<?php bloginfo('template_url'); ?>/assets/images/home/vision/specialization_in_various_industries_637x461.svg" />
                 </div>
             </div>
         </div>

@@ -41,7 +41,7 @@ function get_category_uri($category)
                             <div class="form-group">
                                 <div class="btn search" id="search-btn">
                                     <span class="icon-search">
-                                        <img src="<?php bloginfo('template_url'); ?>/assets/images/icon_search.svg"
+                                        <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/search_40x40.svg"
                                             alt="">
                                     </span>
                                 </div>
@@ -58,7 +58,7 @@ function get_category_uri($category)
                                                 value="<?php echo $search ?>" name='search'>
                                             <div class="input-group-append icon-search-group">
                                                 <button class="pr-0 mb-1  btn btn-link post_link d-inline">
-                                                    <img src="<?php bloginfo('template_url'); ?>/assets/images/union.svg"
+                                                    <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/union_19x19.svg"
                                                         alt="">
                                                 </button>
                                             </div>

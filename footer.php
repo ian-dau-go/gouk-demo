@@ -17,7 +17,8 @@
                             UNITED
                             KINGDOM</div>
                         <div class="UnitedKingdom21" style="width: 24px; height: 24px; position: relative">
-                            <img src="<?php bloginfo('template_url'); ?>/assets/images/united-kingdom-2 1.svg" alt>
+                            <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/united_kingdom_24x25.svg"
+                                alt>
                         </div>
                     </div>
                     <div class="Headquarter"
@@ -48,7 +49,7 @@
                             style="width: 137px; color: white; font-size: 22px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">
                             SINGAPORE</div>
                         <div class="Singapore21" style="width: 24px; height: 24px; position: relative">
-                            <img src="<?php bloginfo('template_url'); ?>/assets/images/singapore-2 1.svg" alt>
+                            <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/singapore_25x25.svg" alt>
                         </div>
                     </div>
                     <div class="LegalTeam"
@@ -76,7 +77,7 @@
                             style="width: 105px; color: white; font-size: 22px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">
                             VIETNAM</div>
                         <div class="Vietnam31" style="width: 24px; height: 24px; position: relative">
-                            <img src="<?php bloginfo('template_url'); ?>/assets/images/vietnam-3 1.svg" alt>
+                            <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/vietnam_25x25.svg" alt>
                         </div>
                     </div>
                     <div class="DevHub"
@@ -108,7 +109,7 @@
                             style="width: 105px; color: white; font-size: 22px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">
                             VIETNAM</div>
                         <div class="Vietnam31" style="width: 24px; height: 24px; position: relative">
-                            <img src="<?php bloginfo('template_url'); ?>/assets/images/vietnam-3 1.svg" alt>
+                            <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/vietnam_25x25.svg" alt>
                         </div>
                     </div>
                     <div class="DevHub"
@@ -146,25 +147,26 @@
                 <a class="frame9257" href="https://goldenowl.uk/"
                     style="width: 274px; height: 45px; justify-content: flex-start; align-items: flex-end; gap: 16px; display: inline-flex">
                     <div class="Group3" style="width: 43.67px; height: 45px; position: relative">
-                        <img src="<?php bloginfo('template_url'); ?>/assets/images/Group 3.svg" alt>
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/footer_logo_44x45.svg" alt>
                     </div>
                     <div class="Group4" style="width: 208.40px; height: 33.99px; position: relative">
-                        <img src="<?php bloginfo('template_url'); ?>/assets/images/Group 4.svg" alt>
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/footer_logo_name_210x34.svg"
+                            alt>
                     </div>
                 </a>
                 <div class="frame9329"
                     style="justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
                     <a class="Linkedin1" style="width: 26px; height: 26px; position: relative"
                         href="https://www.linkedin.com/company/golden-owl-consulting/mycompany/">
-                        <img src="<?php bloginfo('template_url'); ?>/assets/images/linkedin 1.svg" alt>
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/linkedin_26x26.svg" alt>
                     </a>
                     <a class="Twitter1" style="width: 26px; height: 26px; position: relative"
                         href="https://twitter.com/goldenowlasia">
-                        <img src="<?php bloginfo('template_url'); ?>/assets/images/twitter 1.svg" alt>
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/twitter_26x26.svg" alt>
                     </a>
                     <a class="Facebook1" style="width: 26px; height: 26px; position: relative"
                         href="https://www.facebook.com/goldenowl.asia">
-                        <img src="<?php bloginfo('template_url'); ?>/assets/images/facebook 1.svg" alt>
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/facebook_26x26.svg" alt>
                     </a>
                 </div>
             </div>
@@ -313,7 +315,8 @@
         <div class="frame9386">
             <p class="frame9386__footer--Copyright">
                 Golden Owl Consulting. Copyright 2015-2023
-                <img src="<?php bloginfo('template_url'); ?>/assets/images/solar_copyright-linear.svg" alt />
+                <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/solar_copyright_linear_18x18.svg"
+                    alt />
             </p>
         </div>
     </div>
