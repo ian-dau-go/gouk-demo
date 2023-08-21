@@ -27,7 +27,7 @@
                                 <div class="Rectangle4380 RectangleImage">
                                 </div>
                                 <img class="RectangleImage"
-                                    src="<?php bloginfo('template_url'); ?>/assets/images/home/our-team/justin_134x133.svg" />
+                                    src="<?php bloginfo('template_url'); ?>/assets/images/home/our-team/justin_134x133.webp" />
                             </div>
                         </div>
                         <div class="frame34686">
@@ -66,7 +66,7 @@
                                 <div class="Rectangle4380 RectangleImage">
                                 </div>
                                 <img class="RectangleImage"
-                                    src="<?php bloginfo('template_url'); ?>/assets/images/home/our-team/riaz_ladha_132x132.svg" />
+                                    src="<?php bloginfo('template_url'); ?>/assets/images/home/our-team/riaz_ladha_132x132.webp" />
                             </div>
                         </div>
                         <div class="frame34687">
@@ -104,7 +104,7 @@
                                 <div class="Rectangle4380 RectangleImage">
                                 </div>
                                 <img class="RectangleImage"
-                                    src="<?php bloginfo('template_url'); ?>/assets/images/home/our-team/james_morris_132x132.svg" />
+                                    src="<?php bloginfo('template_url'); ?>/assets/images/home/our-team/james_morris_132x132.webp" />
                             </div>
                         </div>
                         <div class="frame34687">

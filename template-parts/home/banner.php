@@ -33,7 +33,7 @@
                     <div class="slidewrapper image-stack__item image-stack__item--top __margin-left-10">
                         <div class="box slide">
                             <img class="--img"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/home/banners/banner_pace_714x505.svg" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/banners/banner_pace_714x505.webp" />
                             <div class="bottom-right">
                                 <div class="eesify py-0">
                                     <div class="d-flex align-items-center py-0">
@@ -60,7 +60,7 @@
                     <div class="slidewrapper image-stack__item image-stack__item--bottom">
                         <div class="box slide">
                             <img class="--img"
-                                src="<?php bloginfo('template_url'); ?>/assets/images/home/banners/banner_eesify_622x440.png" />
+                                src="<?php bloginfo('template_url'); ?>/assets/images/home/banners/banner_eesify_622x440.webp" />
                             <div class="bottom-right">
                                 <div class="pace py-0">
                                     <div class="d-flex align-items-center">

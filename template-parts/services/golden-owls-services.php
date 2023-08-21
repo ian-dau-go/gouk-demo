@@ -43,11 +43,11 @@
                     <div class="banner-container __pt-banner">
                         <div class="image-stack">
                             <div class="image-stack__item image-stack__item--top" style="margin-top: 22%;">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/banner_omni_504x348.svg"
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/banner_omni_504x348.webp"
                                     alt="">
                             </div>
                             <div class="image-stack__item image-stack__item--bottom __service">
-                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/banner_glife_634x435.svg"
+                                <img src="<?php bloginfo('template_url'); ?>/assets/images/service/banner_glife_634x435.webp"
                                     alt="">
                             </div>
                         </div>
