@@ -18,7 +18,8 @@
                             Contact
                             us</div>
                         <div class="FiRrAngleSmallRight" style="width: 10%; height: 22px; position: relative">
-                            <img src="Image/fi-rr-angle-small-right.svg" alt>
+                            <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/fi-rr-angle-small-right.svg"
+                                alt>
                         </div>
                     </a>
                 </div>
