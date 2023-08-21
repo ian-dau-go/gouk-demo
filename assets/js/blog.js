@@ -2,6 +2,7 @@
   init();
   function init() {
     carouselControlHandler();
+    handlerSearch();
   }
 
   function carouselControlHandler() {
@@ -20,6 +21,7 @@
         .addClass("active");
       i++;
     });
+
     $(".carousel-control-prev").click(function () {
       var totalItems = $(".carousel-item").length;
       if (i <= 0) {
@@ -31,7 +33,9 @@
         .addClass("active");
       i--;
     });
+  }
 
+  function handlerSearch() {
     $("#search-btn").click(function () {
       $(this).css("display", "none");
       $("#navbarNav").css("display", "none");

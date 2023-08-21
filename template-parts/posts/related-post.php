@@ -4,7 +4,7 @@
             <img class="img-fluid mx-auto d-block" alt="100%x280" src="<?php 
                                     echo has_post_thumbnail($post->ID) ? 
                                         get_the_post_thumbnail_url($post->ID) :  
-                                        get_template_directory_uri(). '/assets/images/blog/blog-default.jpeg' ?>">
+                                        get_template_directory_uri(). '/assets/images/blog/blog_default.jpeg' ?>">
         </a>
         <div class="card-body">
             <div class="d-flex datetime ">
