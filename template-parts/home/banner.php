@@ -30,7 +30,7 @@
             </div>
             <div class="banner-container col-sm-12 col-md-12 position-relative">
                 <div class="image-stack slider full-bleed">
-                    <div class="slidewrapper image-stack__item image-stack__item--top">
+                    <div class="slidewrapper image-stack__item image-stack__item--top __margin-left-10">
                         <div class="box slide">
                             <img class="--img"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/home/banners/banner_pace_714x505.svg" />

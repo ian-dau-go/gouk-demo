@@ -362,6 +362,7 @@
  }
 
  @media (max-width: 768px) {
+
      .eesify,
      .pace {
          width: min(45vw, 180px);
@@ -1874,38 +1875,39 @@
  }
 
  @media (min-width: 768px) {
- .image-stack__item--bottom .box:hover,
- .image-stack__item--top .box:hover {
-     border-radius: 12px;
-     background-color: black;
- }
 
- .image-stack__item--bottom .box:hover,
- .image-stack__item--top .box:hover {
-     border-radius: 12px;
-     background-color: black;
- }
+     .image-stack__item--bottom .box:hover,
+     .image-stack__item--top .box:hover {
+         border-radius: 12px;
+         background-color: black;
+     }
 
- .image-stack__item--bottom .box:hover img,
- .image-stack__item--top .box:hover img {
-     opacity: 0.3;
- }
+     .image-stack__item--bottom .box:hover,
+     .image-stack__item--top .box:hover {
+         border-radius: 12px;
+         background-color: black;
+     }
 
- .image-stack__item--bottom .box:hover .pace {
-     visibility: visible;
- }
+     .image-stack__item--bottom .box:hover img,
+     .image-stack__item--top .box:hover img {
+         opacity: 0.3;
+     }
 
- .image-stack__item--bottom .box .pace {
-     visibility: hidden;
- }
+     .image-stack__item--bottom .box:hover .pace {
+         visibility: visible;
+     }
 
- .image-stack__item--top .box:hover .eesify {
-     visibility: visible;
- }
+     .image-stack__item--bottom .box .pace {
+         visibility: hidden;
+     }
 
- .image-stack__item--top .box .eesify {
-     visibility: hidden;
- }
+     .image-stack__item--top .box:hover .eesify {
+         visibility: visible;
+     }
+
+     .image-stack__item--top .box .eesify {
+         visibility: hidden;
+     }
  }
 
  @media (min-width: 768px) {
@@ -1926,7 +1928,6 @@
              grid-row: 1;
              grid-column: 1 / span 9;
              margin-top: 22%;
-             margin-left: -10%;
              height: 76.4%;
              width: 100%;
          }
@@ -1935,6 +1936,10 @@
              grid-row: 1;
              grid-column: 7 / span 8;
          }
+
+        .__margin-left-10 {
+            margin-left: -10% !important;
+        }
      }
  }
 
@@ -3170,7 +3175,7 @@
      }
 
      .banner-container {
-        max-width: 85vw;
+         max-width: 85vw;
      }
  }
 
@@ -3253,13 +3258,13 @@
      }
 
      .banner-container {
-        max-width: 58vw;
+         max-width: 58vw;
      }
 
      .image-stack {
-        margin-right: -5vw;
+         margin-right: -5vw;
      }
-     
+
  }
 
  .gouk__blog-page .blog__list-of-posts .Frame94955__item--content .datetime {
@@ -4370,6 +4375,6 @@
 
      .pace .--boder-left,
      .eesify .--boder-left {
-        display: none;
+         display: none;
      }
  }

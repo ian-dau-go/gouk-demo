@@ -1,7 +1,7 @@
 <section class="gouk-carousel">
     <div class="row mx-auto">
         <div class="container-fluid __px-100px py-5">
-            <div id="GoukCarousel" class="carousel slide" data-ride="carousel" data-interval="9000">
+            <div id="GoukCarousel" class="carousel" data-ride="carousel" data-interval="9000">
                 <div class="d-flex py-2 col-12 justify-content--space-between gap-10px">
                     <h4 class="my-auto morelike">More like this</h4>
                     <div class="carousel-control d-inline-flex float-end gap-10px">

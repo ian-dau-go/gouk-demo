@@ -10,7 +10,7 @@ $post = get_post(get_the_ID());
                 <img src="<?php
                             echo has_post_thumbnail($post->ID) ?
                                 get_the_post_thumbnail_url($post->ID) :
-                                get_template_directory_uri() . '/assets/images/blog/blog-default.jpeg' ?>" alt="">
+                                get_template_directory_uri() . '/assets/images/blog/blog_default.jpeg' ?>" alt="">
             </div>
         </div>
     </div>

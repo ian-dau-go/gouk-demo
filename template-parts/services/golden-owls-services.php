@@ -42,7 +42,7 @@
                 <div class="col-sm-12 col-xl-7 col-lg-7 position-relative">
                     <div class="banner-container __pt-banner">
                         <div class="image-stack">
-                            <div class="image-stack__item image-stack__item--top">
+                            <div class="image-stack__item image-stack__item--top" style="margin-top: 22%;">
                                 <img src="<?php bloginfo('template_url'); ?>/assets/images/service/banner_glife_634x435.svg"
                                     alt="">
                             </div>
