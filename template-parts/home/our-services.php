@@ -17,7 +17,8 @@
                 </div>
                 <div class="d-flex align-items flex-column col-12 col-lg-3 col-xl-3 my-auto">
                     <div class="frame9632">
-                        <a class="ExploreOurServices text-decoration-none" href="/service.html">
+                        <a class="ExploreOurServices text-decoration-none"
+                            href="       <?php echo get_permalink(get_page_by_path('services')) ?>">
                             Explore our services
                             <img style="width: 12.51px; height: 8px;"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/icons/fi-rs-arrow-right.svg" alt>
