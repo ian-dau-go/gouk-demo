@@ -3053,6 +3053,10 @@
      }
  }
 
+ .gouk__blog-page .blog__list-of-posts .grid-item .Frame94955__item--image {
+     display: block;
+ }
+
  @media only screen and (max-width: 576px) {
      .gouk__blog-page .blog__list-of-posts .grid-item .Frame94955__item--image {
          width: 100% !important;
@@ -3108,8 +3112,8 @@
  }
 
  .LetGoldenOwlConsultingBeYourItConsultant {
-     font-size: min(6vw, 34px) !important;
-     line-height: min(9vw, 40px) !important;
+     font-size: min(6vw, 20px) !important;
+     line-height: min(9vw, 30px) !important;
  }
 
  .subscribe-input {

@@ -15,7 +15,7 @@
                         <div class="col-12 col-md-8">
                             <input type="email" class="form-control subscribe-input" id="" placeholder="Your email">
                         </div>
-                        <div class="col-12 col-md-4">
+                        <div class="col-12 col-md-4 d-flex justify-content-center">
                             <button type="submit" class="btn p-0">
                                 <div class="frame9529 Subscribe"
                                     style="text-align: center; color: black; font-size: 18px; font-family: Montserrat;-weight: 700; word-wrap: break-word">

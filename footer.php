@@ -333,6 +333,10 @@
 </script>
 <script src="<?php bloginfo('template_url'); ?>/assets/js/index.js"></script>
 <script src="<?php bloginfo('template_url'); ?>/assets/js/blog.js"></script>
-
+<script
+    src="<?php bloginfo('template_url'); ?>/assets/js/cdn.jsdelivr.net_npm_bootstrap@5.3.0_dist_js_bootstrap.bundle.min.js">
+</script>
+<script src="<?php bloginfo('template_url'); ?>/assets/js/ajax.googleapis.com_ajax_libs_jquery_3.6.4_jquery.min.js">
+</script>
 
 </html>
