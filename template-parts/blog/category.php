@@ -16,8 +16,8 @@ function get_category_uri($category)
     <div class="row mx-auto">
         <div class="blog__menu container-fluid __px-100px py-2">
             <nav class="navbar navbar-expand-lg navbar-light Frame9615">
-                <div class="row mx-auto container-fluid" style="position: relative">
-                    <div id="navbarNav" class="col-12 col-md-11 col-lg-11 col-xl-11 my-auto">
+                <div class="row mx-auto container-fluid p-0" style="position: relative">
+                    <div id="navbarNav" class="col-12 col-md-11 col-lg-11 col-xl-11 my-auto p-0">
                         <div class=" collapse navbar-collapse">
                             <ul class="navbar-nav">
                                 <li class="nav-item <?php echo $category_slug === '' ? 'active' : '' ?>">

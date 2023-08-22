@@ -464,7 +464,7 @@
                                 style="color: #909090; font-size: 14px; font-family: Montserrat; font-weight: 500; line-height: 21px; word-wrap: break-word">
                                 See
                                 portfolio</div>
-                            <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/left_13x9.svg" alt="">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/left_gray_12x8.svg" alt="">
 
                         </a>
                     </div>
@@ -497,7 +497,7 @@
                                 style="color: #909090; font-size: 14px; font-family: Montserrat; font-weight: 500; line-height: 21px; word-wrap: break-word">
                                 See
                                 portfolio</div>
-                            <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/left_13x9.svg" alt="">
+                            <img src="<?php bloginfo('template_url'); ?>/assets/images/icons/left_gray_12x8.svg" alt="">
                             <!-- <div class="Vector"
                                                     style="width: 12.51px; height: 8px; transform: rotate(180deg); transform-origin: 0 0; background: #909090">
                                                 </div> -->

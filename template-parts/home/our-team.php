@@ -37,7 +37,7 @@
                                 <div class="FounderCeo">
                                     Founder & CEO</div>
                             </div>
-                            <div class="AnAccomplishedIt frame34700__text">
+                            <div class=" frame34700__text">
                                 An accomplished IT
                                 professional with 15 years
                                 of industry experience. As

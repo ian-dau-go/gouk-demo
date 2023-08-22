@@ -2,7 +2,7 @@
     <div class="row mx-auto">
         <div class="frame34674 w-100 __px-100px">
             <div class="col-12 d-flex justify-content-center">
-                <di v class="GoldenOwlSVision"><span class="golden-owl">Golden
+                <div class="GoldenOwlSVision" style="margin-bottom:50px"><span class="golden-owl">Golden
                         Owl's</span><span>
                     </span>
                     <span>vision
@@ -11,8 +11,9 @@
                         company that is always at the
                         forefront
                         of technology.</span>
+                </div>
             </div>
-            <div class="col-12 frame34666">
+            <div class="col-12">
                 <div class="frame34661 row mx-auto col-12 w-100 py-2">
 
                     <div class="frame9501 col-12 py-3 my-auto">

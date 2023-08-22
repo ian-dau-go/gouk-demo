@@ -2,7 +2,7 @@
     <div class="row mx-auto">
         <div class="frame34674 w-100 __px-100px">
             <div class="col-12 d-flex justify-content-center">
-                <di v class="GoldenOwlSVision"><span class="golden-owl">Golden
+                <div class="GoldenOwlSVision"><span class="golden-owl">Golden
                         Owl's</span><span>
                     </span>
                     <span>vision
@@ -11,8 +11,9 @@
                         company that is always at the
                         forefront
                         of technology.</span>
+                </div>
             </div>
-            <div class="col-12 frame34666">
+            <div class="col-12 ">
                 <div class="frame34661 row mx-auto col-12 w-100 py-2">
                     <div class="frame34701 col-12 col-sm-12 col-md-12 col-lg-6 p-0 my-auto">
                         <img class="MacbookPro16 w-100 h-100" style="object-fit: cover;"

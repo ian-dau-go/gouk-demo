@@ -2,7 +2,7 @@
     <div class="row mx-auto">
         <div class="pt-5 px-4" style="margin-bottom: 130px">
             <div class="row mx-auto frame9534">
-                <div class="col-12 col-md-7 col-lg-8 col-xl-8 LetGoldenOwlConsultingBeYourItConsultant fz-m">
+                <div class="col-12 col-md-7 col-lg-8 col-xl-8 LetGoldenOwlConsultingBeYourItConsultant fz-m p-0">
                     <span style="color: white;-family: Montserrat;-weight: 500;">Let</span>
                     <span style="color: white;-family: Montserrat; font-weight: 700;">
                         Golden Owl Consulting

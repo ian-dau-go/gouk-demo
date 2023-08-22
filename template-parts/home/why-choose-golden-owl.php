@@ -22,12 +22,13 @@
                         <div class="Scalability">
                             Optimize time and cost</div>
                         <div class="GoldenOwlSCustomersHaveExperienced">
-                            Golden Owl's customers have
+                            <span class="golden-owl"> Golden Owl's</span> customers have
                             experienced a remarkable
                             reduction of 30% in their
                             operating costs, simply
                             by choosing us for their IT
-                            outsourcing needs.</div>
+                            outsourcing needs.
+                        </div>
                     </div>
                 </div>
                 <div class="Rectangle4399 w-100"></div>

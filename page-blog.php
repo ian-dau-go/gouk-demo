@@ -10,5 +10,7 @@ if (have_posts()) {
 else {
     echo 'Sorry, no posts were found.';
 }
+get_template_part('template-parts/blog/subcrible-form');
+
 
 get_footer();

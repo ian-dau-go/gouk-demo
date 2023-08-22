@@ -50,7 +50,7 @@
                             <div class="Frame9545 pl-0 col-3 col-md-3 col-lg-3">
                                 <a href="<?php echo get_site_url()?>">
                                     <div class=" logo">
-                                        <img src="<?php echo get_template_directory_uri() . '/assets/images/gouklogo_160x36.svg' ?>"
+                                        <img src="<?php echo get_template_directory_uri() . '/assets/images/gouk_logo_150x34.svg' ?>"
                                             alt />
                                     </div>
                                 </a>

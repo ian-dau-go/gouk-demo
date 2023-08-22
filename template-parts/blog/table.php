@@ -15,8 +15,12 @@
                 ]
             );
 
-            foreach ($posts as $post) {
+            foreach ($posts as $index => $post) {
                 get_template_part('template-parts/blog/article');
+
+                if($index === 0 || $index === 3) {
+                    echo '<hr/>';
+                }
             }
             ?>
         </div>
