@@ -11,8 +11,7 @@
                 <span
                     class="d-inline-block date"><?php echo  DateTime::createFromFormat('Y-m-d H:i:s', $post->post_modified)->format('M j, Y'); ?></span>
                 <span class="dot">
-                    <img width="3px" src="<?php bloginfo('template_url'); ?>/assets/images/icons/ellipse_6x7.svg"
-                        alt="">
+                    <img width="3px" src="<?php bloginfo('template_url'); ?>/assets/images/blog/ellipse_6x7.svg" alt="">
                 </span>
                 <span
                     class="d-inline-block time"><?php echo do_shortcode('[rt_reading_time post_id="' . $post->ID . '"]') ?>
