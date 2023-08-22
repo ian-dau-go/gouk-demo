@@ -3112,8 +3112,8 @@
  }
 
  .LetGoldenOwlConsultingBeYourItConsultant {
-     font-size: min(6vw, 20px) !important;
-     line-height: min(9vw, 30px) !important;
+     font-size: min(6vw, 34px) !important;
+     line-height: min(9vw, 51px) !important;
  }
 
  .subscribe-input {
@@ -3435,6 +3435,24 @@
  .gouk__search--border {
      border: 1px solid #ccc;
      border-radius: 20px;
+     padding-right: 10px;
+
+ }
+
+ .gouk__search--border input {
+
+     padding-left: 20px;
+     padding-right: 20px;
+ }
+
+ .gouk__search--border input::placeholder {
+
+     color: #BCBCBC;
+     font-family: Montserrat;
+     font-size: 14px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: normal;
  }
 
  .gouk__search input {
@@ -3456,7 +3474,7 @@
 
  .gouk__search #search-active {
      display: none;
-     width: min(500px, 100%);
+     width: min(610px, 100%);
      float: right;
      padding-bottom: 10px;
  }

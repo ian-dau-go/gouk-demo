@@ -83,7 +83,7 @@
                                 src="<?php bloginfo('template_url'); ?>/assets/images/home/badges/badge_top_web_developers_clutch_2020_207x242.webp" />
                         </div>
                     </div>
-                    <div class="frame9387 d-flex justify-content-center item" style="padding: 0 20%">
+                    <div class="frame9387 d-flex justify-content-center item" style="padding: 0 15%">
                         <div class="frame34735">
                             <img class="Rectangle30" style="max-width: 181px; width:100%"
                                 src="<?php bloginfo('template_url'); ?>/assets/images/home/badges/badge_most_reviewed_design_companies_181x220.webp" />
