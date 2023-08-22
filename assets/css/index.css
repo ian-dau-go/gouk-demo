@@ -2149,35 +2149,8 @@
      gap: 4px;
  }
 
- .frame34787__images--our-hardworking-staff .MaskGroup {
-     height: 80% !important;
- }
-
- .frame34787__images--our-hardworking-staff .Ellipse175 {
-
-     width: 31px !important;
-     height: 31px !important;
-     left: -15px !important;
-     top: -471px !important;
-
- }
-
- .frame34787__images--our-hardworking-staff .Ellipse174,
- .frame34787__images--our-hardworking-staff .Ellipse179 {
-     visibility: hidden;
- }
-
- .frame34787__images--our-hardworking-staff .Ellipse178 {
-
-     width: 45px !important;
-     height: 45px !important;
-     top: -47% !important;
-     left: 90% !important;
-
- }
-
  .frame34787__images--our-hardworking-staff {
-     height: 500px;
+     height: 750px;
  }
 
  .frame34787__images--our-hardworking-staff .MaskGroup {
@@ -3646,6 +3619,38 @@
      .frame34730 {
          margin-top: 30px !important;
      }
+
+     .frame34787__images--our-hardworking-staff .MaskGroup {
+         height: 80% !important;
+     }
+
+     .frame34787__images--our-hardworking-staff .Ellipse175 {
+
+         width: 31px !important;
+         height: 31px !important;
+         left: -15px !important;
+         top: -471px !important;
+
+     }
+
+     .frame34787__images--our-hardworking-staff .Ellipse174,
+     .frame34787__images--our-hardworking-staff .Ellipse179 {
+         visibility: hidden;
+     }
+
+     .frame34787__images--our-hardworking-staff .Ellipse178 {
+
+         width: 45px !important;
+         height: 45px !important;
+         top: -47% !important;
+         left: 90% !important;
+
+     }
+
+     .frame34787__images--our-hardworking-staff {
+         height: 500px;
+     }
+
  }
 
  @media (max-width: 992px) and (min-width: 576px) {
