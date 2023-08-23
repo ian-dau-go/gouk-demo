@@ -88,13 +88,25 @@ $(document).ready(function() {
         const h4Text = h4Tag.text();
         const slug = h4Text.replaceAll(' ', '-').toLowerCase().replaceAll(/[^a-zA-Z0-9 ]/g, '');
         h4Tag.attr('id', slug);
-        $('#table-of-contents').append(` <li>
-                                    <a href="#${slug}" class="">
+        h4Tag.addClass('gouk-blog-content-title');
+        $('#table-of-contents').append(` <li class="gouk-link-blog-content">
+                                    <a href="#${slug}"  id="${slug + '-link'}">
                                         <span>${h4Text}</span>
                                     </a>
                                 </li>`)
 
     })
+    $(window).scroll(function() {
+        $(".gouk-blog-content-title").each(function() {
+            const distance = $(this).offset().top;
+
+            const id = $(this).attr('id');
+            if ($(window).scrollTop() + 200 >= distance) {
+                $('.gouk-link-blog-content a').removeClass('active');
+                $(`#${id}-link`).addClass("active");
+            }
+        });
+    });
 })
 </script>
 
