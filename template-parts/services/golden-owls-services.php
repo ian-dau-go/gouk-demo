@@ -1,4 +1,4 @@
-<section>
+<section class="overflow-hidden">
     <div class="row mx-auto">
         <div class="__px-100px py-5 container-fluid">
             <div class="row mx-auto">

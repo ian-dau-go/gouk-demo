@@ -1833,7 +1833,7 @@
  /* // Relevant styles */
 
  .banner-container .image-stack img {
-     width: 100%;
+     width: 110%;
      display: block;
  }
 
@@ -3474,7 +3474,7 @@
 
  .gouk__search #search-active {
      display: none;
-     width: min(610px, 100%);
+     width: min(688px, 100%);
      float: right;
      padding-bottom: 10px;
  }
@@ -3606,6 +3606,7 @@
      border-color: #F5C118 !important;
      border-left: 4px solid;
      padding-left: 10px;
+     display: block;
  }
 
  .sidebar .sidebar-body ul {
